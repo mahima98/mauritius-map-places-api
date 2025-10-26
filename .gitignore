@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables (keep your Google API key safe)
+.env
+
+# Logs and temp files
+npm-debug.log*
+.DS_Store
+
+# Optional: if you ever generate build files
+dist/

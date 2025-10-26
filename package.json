@@ -1,0 +1,15 @@
+{
+  "name": "mauritius-map-places-api",
+  "version": "1.0.0",
+  "main": "fetch-map-place-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
