@@ -7,7 +7,7 @@ const radius = 5000;
 const apiKey = process.env.GOOGLE_PLACES_API_KEY; // from GitHub Secrets
 
 // The types you want to fetch — you can add more if needed
-const types = ["cafe", "restaurant"];
+const types = ["cafes", "restaurants"];
 
 async function fetchPlaces(type) {
   const url = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=${location}&radius=${radius}&type=${type}&keyword=${type}&key=${apiKey}`;
