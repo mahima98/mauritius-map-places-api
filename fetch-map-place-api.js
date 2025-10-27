@@ -36,7 +36,7 @@ async function fetchTopCafes() {
   }));
 
   fs.writeFileSync(
-    "mauritius-map-plces-api.json",
+    "mauritius-map-places-api.json",
     JSON.stringify(cleanData, null, 2)
   );
   console.log("✅ cafés data saved to cafes.json");
