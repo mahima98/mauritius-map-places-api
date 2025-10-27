@@ -1,1 +1,170 @@
-[]
+[
+  {
+    "name": "Vintage Resto & Cafe",
+    "rating": 5,
+    "address": "102 Galerie Yan Palach, Curepipe",
+    "location": {
+      "lat": -20.3170872,
+      "lng": 57.5265289
+    },
+    "total_ratings": 3
+  },
+  {
+    "name": "DELICES DE COLETTE",
+    "rating": 5,
+    "address": "Cite la Brasserie Block A1, Bach lane, Curepipe",
+    "location": {
+      "lat": -20.3365513,
+      "lng": 57.51218739999999
+    },
+    "total_ratings": 1
+  },
+  {
+    "name": "Break Time Café",
+    "rating": 4.9,
+    "address": "Sunsheel Shopping Centre, 165 A 10, Curepipe",
+    "location": {
+      "lat": -20.3167868,
+      "lng": 57.5236682
+    },
+    "total_ratings": 18
+  },
+  {
+    "name": "Kafe Ver",
+    "rating": 4.8,
+    "address": "Market Lane Curepipe MU",
+    "location": {
+      "lat": -20.3169752,
+      "lng": 57.52540699999999
+    },
+    "total_ratings": 24
+  },
+  {
+    "name": "CAFETINO CUREPIPE",
+    "rating": 4.6,
+    "address": "Louis Pasteur St, Curepipe",
+    "location": {
+      "lat": -20.3191864,
+      "lng": 57.5286677
+    },
+    "total_ratings": 49
+  },
+  {
+    "name": "Café Olive",
+    "rating": 4.4,
+    "address": "Sir Pierre Simonet St, Curepipe",
+    "location": {
+      "lat": -20.3143262,
+      "lng": 57.5243038
+    },
+    "total_ratings": 142
+  },
+  {
+    "name": "Kuumba Coffee Floreal",
+    "rating": 4.3,
+    "address": "Nouvelle Usine, Kuumba Coffee, Vacoas-Phoenix",
+    "location": {
+      "lat": -20.3052059,
+      "lng": 57.50565439999999
+    },
+    "total_ratings": 142
+  },
+  {
+    "name": "Bleu Blanc Rouge Gateau Piment",
+    "rating": 4.3,
+    "address": "195 A 10, Curepipe",
+    "location": {
+      "lat": -20.3188435,
+      "lng": 57.52478529999999
+    },
+    "total_ratings": 3
+  },
+  {
+    "name": "Le Coffee Shop",
+    "rating": 4.2,
+    "address": "MGR6+4VH, Queen Mary Ave, Vacoas-Phoenix",
+    "location": {
+      "lat": -20.3096521,
+      "lng": 57.512111
+    },
+    "total_ratings": 350
+  },
+  {
+    "name": "Chelsea's Cup N' Cake",
+    "rating": 4.1,
+    "address": "Arcade Currimjee, A 10, Curepipe",
+    "location": {
+      "lat": -20.3187786,
+      "lng": 57.5239258
+    },
+    "total_ratings": 919
+  },
+  {
+    "name": "Nevada Coffee Bar",
+    "rating": 4,
+    "address": "1st floor, A10 Royal Road, Curepipe",
+    "location": {
+      "lat": -20.3188373,
+      "lng": 57.5247819
+    },
+    "total_ratings": 662
+  },
+  {
+    "name": "The Kooffee Hub",
+    "rating": 3.9,
+    "address": "MGMF+3HJ, A 10, Curepipe",
+    "location": {
+      "lat": -20.3172915,
+      "lng": 57.5238945
+    },
+    "total_ratings": 8
+  },
+  {
+    "name": "ILLICO Coffee Shop",
+    "rating": 3.8,
+    "address": "Vacoas-Phoenix",
+    "location": {
+      "lat": -20.3098547,
+      "lng": 57.5132226
+    },
+    "total_ratings": 146
+  },
+  {
+    "name": "Cafe Du VOLCAN",
+    "rating": 3.5,
+    "address": "MGP8+VQ4, Georges Guibert St, Curepipe",
+    "location": {
+      "lat": -20.3128694,
+      "lng": 57.5169595
+    },
+    "total_ratings": 36
+  },
+  {
+    "name": "Café D’Or",
+    "rating": 3.4,
+    "address": "228 A 10, Curepipe",
+    "location": {
+      "lat": -20.3158936,
+      "lng": 57.52315359999999
+    },
+    "total_ratings": 5
+  },
+  {
+    "name": "Paul",
+    "rating": 3.1,
+    "address": "MGR7+748, Vacoas-Phoenix",
+    "location": {
+      "lat": -20.309334,
+      "lng": 57.5128363
+    },
+    "total_ratings": 109
+  },
+  {
+    "name": "Poz Bistro",
+    "address": "MH22+JVJ, Seizieme Mille",
+    "location": {
+      "lat": -20.348404,
+      "lng": 57.55215200000001
+    }
+  }
+]
