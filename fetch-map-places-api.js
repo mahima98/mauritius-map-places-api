@@ -3,7 +3,7 @@ import fs from "fs";
 import fetch from "node-fetch";
 
 const location = "-20.348404,57.552152"; // Example: Port Louis, Mauritius
-const radius = 5000;
+const radius = 50000;
 const apiKey = process.env.GOOGLE_PLACES_API_KEY; // from GitHub Secrets
 
 // The types you want to fetch — you can add more if needed
