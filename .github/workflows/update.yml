@@ -1,0 +1,35 @@
+name: Update Café Data
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
+  workflow_dispatch: # Allows you to trigger manually from GitHub
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install node-fetch
+
+      - name: Run script
+        run: node fetch-map-place-api.js
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add mauritius-map-plces-api.json
+          git commit -m "Update café data [skip ci]" || echo "No changes to commit"
+          git push

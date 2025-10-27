@@ -35,7 +35,10 @@ async function fetchTopCafes() {
     total_ratings: cafe.user_ratings_total,
   }));
 
-  fs.writeFileSync("cafes.json", JSON.stringify(cleanData, null, 2));
+  fs.writeFileSync(
+    "mauritius-map-plces-api.json",
+    JSON.stringify(cleanData, null, 2)
+  );
   console.log("✅ cafés data saved to cafes.json");
 }
 
