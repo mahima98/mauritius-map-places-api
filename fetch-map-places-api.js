@@ -97,7 +97,7 @@ async function run() {
   };
 
   fs.writeFileSync(
-    "mauritius-map-places-api-new.json",
+    "mauritius-map-places-api.json",
     JSON.stringify(finalData, null, 2)
   );
 
