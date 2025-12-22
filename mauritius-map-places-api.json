@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-12-21T00:38:28.138Z",
+  "fetched_at": "2025-12-22T00:37:29.866Z",
   "location": {
     "latitude": -20.348404,
     "longitude": 57.552152
@@ -11,7 +11,7 @@
       "place_id": "ChIJcVwhUWZUfCERQ6oIFxW7cjY",
       "name": "L'Aventure du Sucre",
       "rating": 4.5,
-      "user_ratings_total": 4478,
+      "user_ratings_total": 4480,
       "vicinity": "B18, Pamplemousses 21001, Mauritius",
       "geometry": {
         "location": {
@@ -30,16 +30,16 @@
       },
       "types": [
         "tourist_attraction",
-        "dessert_restaurant",
         "coffee_shop",
-        "gift_shop",
+        "dessert_restaurant",
         "cafe",
-        "museum",
+        "gift_shop",
         "food_store",
+        "museum",
         "restaurant",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -47,7 +47,7 @@
       "place_id": "ChIJV_NsvqqsfSER1fT2pGkkZ7Y",
       "name": "Florensuc Patisserie",
       "rating": 4.3,
-      "user_ratings_total": 970,
+      "user_ratings_total": 971,
       "vicinity": "XG5X+QR5, Trou Aux Biches Rd, Triolet, Mauritius",
       "geometry": {
         "location": {
@@ -95,11 +95,11 @@
       "types": [
         "restaurant",
         "coffee_shop",
-        "food_store",
         "cafe",
+        "food_store",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -107,7 +107,7 @@
       "place_id": "ChIJZVO0wINtfCEReumvgM_PuSM",
       "name": "Kind Coffee",
       "rating": 4.9,
-      "user_ratings_total": 547,
+      "user_ratings_total": 548,
       "vicinity": "MU, La Gaulette 91101, Mauritius",
       "geometry": {
         "location": {
@@ -126,11 +126,11 @@
       },
       "types": [
         "coffee_shop",
-        "food_store",
         "cafe",
+        "food_store",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -138,7 +138,7 @@
       "place_id": "ChIJn1gIwMFrfCERmcC3FLW6yEo",
       "name": "The Chaser Mauritian Bistro",
       "rating": 4.8,
-      "user_ratings_total": 568,
+      "user_ratings_total": 570,
       "vicinity": "20.423433, 57.363005, La Gaulette, Mauritius",
       "geometry": {
         "location": {
@@ -157,13 +157,13 @@
       },
       "types": [
         "restaurant",
-        "fine_dining_restaurant",
         "brunch_restaurant",
-        "vegetarian_restaurant",
+        "fine_dining_restaurant",
         "breakfast_restaurant",
         "internet_cafe",
-        "meal_takeaway",
+        "vegetarian_restaurant",
         "cafe",
+        "meal_takeaway",
         "food",
         "point_of_interest",
         "establishment"
@@ -229,7 +229,7 @@
       "place_id": "ChIJhZVlrtGrfSERfEeWCUdPpmI",
       "name": "OBOĒ Gardenstē",
       "rating": 4.8,
-      "user_ratings_total": 151,
+      "user_ratings_total": 152,
       "vicinity": "Chem. du Vieux Moulin Casse, Grand Baie, Mauritius",
       "geometry": {
         "location": {
@@ -248,8 +248,8 @@
       },
       "types": [
         "hotel",
-        "lodging",
         "cafe",
+        "lodging",
         "food",
         "point_of_interest",
         "establishment"
@@ -279,14 +279,14 @@
       "types": [
         "bakery",
         "sandwich_shop",
+        "cafe",
         "dessert_shop",
         "confectionery",
-        "restaurant",
         "food_store",
-        "cafe",
+        "restaurant",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -313,13 +313,13 @@
       },
       "types": [
         "cafe",
-        "breakfast_restaurant",
-        "restaurant",
         "coffee_shop",
+        "breakfast_restaurant",
         "food_store",
+        "restaurant",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -346,14 +346,14 @@
       },
       "types": [
         "ice_cream_shop",
+        "coffee_shop",
+        "cafe",
         "dessert_shop",
         "confectionery",
-        "coffee_shop",
         "food_store",
-        "cafe",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -380,15 +380,15 @@
       },
       "types": [
         "restaurant",
-        "meal_takeaway",
-        "pizza_restaurant",
-        "bar",
         "coffee_shop",
-        "food_store",
+        "pizza_restaurant",
         "cafe",
+        "bar",
+        "food_store",
+        "meal_takeaway",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -414,15 +414,15 @@
         "compound_code": "XHPQ+H9 Grand Baie, Mauritius"
       },
       "types": [
+        "coffee_shop",
         "bakery",
+        "cafe",
         "dessert_shop",
         "confectionery",
-        "coffee_shop",
         "food_store",
-        "cafe",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -430,7 +430,7 @@
       "place_id": "ChIJcbphAwyrfSERXIOwD3BuciA",
       "name": "Les Canisses Resto & Plage",
       "rating": 4.3,
-      "user_ratings_total": 775,
+      "user_ratings_total": 776,
       "vicinity": "Grand Baie, Mauritius",
       "geometry": {
         "location": {
@@ -449,11 +449,11 @@
       },
       "types": [
         "restaurant",
-        "fine_dining_restaurant",
         "bar_and_grill",
+        "fine_dining_restaurant",
+        "cafe",
         "seafood_restaurant",
         "bar",
-        "cafe",
         "food",
         "point_of_interest",
         "establishment"
@@ -482,13 +482,13 @@
       },
       "types": [
         "brunch_restaurant",
-        "restaurant",
         "coffee_shop",
-        "food_store",
         "cafe",
+        "food_store",
+        "restaurant",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -515,11 +515,11 @@
       },
       "types": [
         "coffee_shop",
-        "food_store",
         "cafe",
+        "food_store",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -546,14 +546,14 @@
       },
       "types": [
         "guest_house",
-        "lodging",
         "supermarket",
-        "grocery_store",
-        "food_store",
         "cafe",
+        "grocery_store",
+        "lodging",
+        "food_store",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -580,15 +580,15 @@
       },
       "types": [
         "hotel",
-        "brunch_restaurant",
-        "lodging",
-        "restaurant",
         "coffee_shop",
-        "food_store",
+        "brunch_restaurant",
         "cafe",
+        "lodging",
+        "food_store",
+        "restaurant",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -615,12 +615,12 @@
       },
       "types": [
         "coffee_shop",
-        "restaurant",
-        "food_store",
         "cafe",
+        "food_store",
+        "restaurant",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -656,7 +656,7 @@
       "place_id": "ChIJB2bQNAxmfCERG7NSOEK29PI",
       "name": "Vallé Advenature Park (formerly La Vallée des Couleurs)",
       "rating": 4.7,
-      "user_ratings_total": 13935,
+      "user_ratings_total": 13936,
       "vicinity": "B102, Chamouny, Mauritius",
       "geometry": {
         "location": {
@@ -676,15 +676,15 @@
       "types": [
         "tourist_attraction",
         "adventure_sports_center",
+        "amusement_center",
         "wedding_venue",
         "amusement_park",
-        "amusement_center",
-        "park",
-        "event_venue",
         "sports_complex",
-        "sports_activity_location",
         "restaurant",
         "food",
+        "sports_activity_location",
+        "event_venue",
+        "park",
         "point_of_interest",
         "establishment"
       ]
@@ -726,7 +726,7 @@
       "place_id": "ChIJT3zlxHX8fCERkaRhKG_Wvy0",
       "name": "Constance Belle Mare Plage Mauritius",
       "rating": 4.6,
-      "user_ratings_total": 2601,
+      "user_ratings_total": 2603,
       "vicinity": "MU, B59 Belle Mare, Poste de Flacq 41602, Mauritius",
       "geometry": {
         "location": {
@@ -746,16 +746,16 @@
       "types": [
         "resort_hotel",
         "bar_and_grill",
-        "golf_course",
-        "hotel",
-        "athletic_field",
         "spa",
-        "event_venue",
-        "lodging",
-        "sports_activity_location",
+        "hotel",
         "bar",
+        "lodging",
+        "golf_course",
+        "athletic_field",
         "restaurant",
         "food",
+        "sports_activity_location",
+        "event_venue",
         "point_of_interest",
         "establishment"
       ]
@@ -764,7 +764,7 @@
       "place_id": "ChIJxzqO66hTfCERyRxznQW1nVQ",
       "name": "The Ravenala Attitude Hotel",
       "rating": 4.6,
-      "user_ratings_total": 6947,
+      "user_ratings_total": 6948,
       "vicinity": "Turtle Bay, Balaclava, Mauritius",
       "geometry": {
         "location": {
@@ -828,7 +828,7 @@
       "place_id": "ChIJ_zudTjZpfCERrM6aNE6Tb54",
       "name": "Rhumerie de Chamarel Restaurant & Rum Distillery",
       "rating": 4.5,
-      "user_ratings_total": 4239,
+      "user_ratings_total": 4241,
       "vicinity": "Chamarel, Mauritius",
       "geometry": {
         "location": {
@@ -889,7 +889,7 @@
       "place_id": "ChIJ6SyZng6qfSERP7_lH0ExgJI",
       "name": "Lagoon Attitude Hotel",
       "rating": 4.6,
-      "user_ratings_total": 2048,
+      "user_ratings_total": 2051,
       "vicinity": "Royal Road Anse La Raie, Mauritius",
       "geometry": {
         "location": {
@@ -953,7 +953,7 @@
       "place_id": "ChIJva7c5EhpfCERtdxCllrQi54",
       "name": "Le Chamarel Restaurant",
       "rating": 4.2,
-      "user_ratings_total": 2286,
+      "user_ratings_total": 2288,
       "vicinity": "La Crête, Main Road, Chamarel, Mauritius",
       "geometry": {
         "location": {
@@ -981,7 +981,7 @@
       "place_id": "ChIJ91KCoJv7fCERb9mgSgGF8RM",
       "name": "Sunrise Attitude Hotel",
       "rating": 4.6,
-      "user_ratings_total": 2034,
+      "user_ratings_total": 2036,
       "vicinity": "Belle Mare, Quatre Cocos, Mauritius",
       "geometry": {
         "location": {
@@ -1000,8 +1000,8 @@
       },
       "types": [
         "resort_hotel",
-        "hotel",
         "spa",
+        "hotel",
         "lodging",
         "restaurant",
         "food",
@@ -1044,7 +1044,7 @@
       "place_id": "ChIJ-cfv7QyrfSERHtfn_4nUwD4",
       "name": "Beach House Restaurant & Bar",
       "rating": 4.2,
-      "user_ratings_total": 2138,
+      "user_ratings_total": 2139,
       "vicinity": "Royal Rd., B13, Grand Baie, Mauritius",
       "geometry": {
         "location": {
@@ -1072,7 +1072,7 @@
       "place_id": "ChIJuwNMdAVqfCERJjA6TdILaKs",
       "name": "The Bay Guest House & Restaurant",
       "rating": 4.3,
-      "user_ratings_total": 1470,
+      "user_ratings_total": 1473,
       "vicinity": "Avenue Les Cocotiers, Black River, Mauritius",
       "geometry": {
         "location": {
@@ -1092,8 +1092,8 @@
       "types": [
         "restaurant",
         "guest_house",
-        "lodging",
         "bar",
+        "lodging",
         "food",
         "point_of_interest",
         "establishment"
@@ -1122,11 +1122,11 @@
       },
       "types": [
         "condominium_complex",
-        "hotel",
         "apartment_building",
         "spa",
-        "lodging",
+        "hotel",
         "bar",
+        "lodging",
         "restaurant",
         "food",
         "point_of_interest",
@@ -1168,7 +1168,7 @@
       "place_id": "ChIJB8tLoYKqfSER9zIv9eco7_U",
       "name": "Eden Beach Restaurant Lounge-Bar",
       "rating": 4.4,
-      "user_ratings_total": 1270,
+      "user_ratings_total": 1272,
       "vicinity": "Costal Rd, Grand Baie, Mauritius",
       "geometry": {
         "location": {
@@ -1224,7 +1224,7 @@
       "place_id": "ChIJx9Ln9xf8fCERlttdery50JE",
       "name": "Constance Prince Maurice, Mauritius",
       "rating": 4.8,
-      "user_ratings_total": 1199,
+      "user_ratings_total": 1200,
       "vicinity": "Choisy Road MU, Poste de Flacq 742FL001, Mauritius",
       "geometry": {
         "location": {
@@ -1244,13 +1244,13 @@
       "types": [
         "hotel",
         "resort_hotel",
-        "golf_course",
-        "athletic_field",
         "spa",
         "lodging",
-        "sports_activity_location",
+        "golf_course",
+        "athletic_field",
         "restaurant",
         "food",
+        "sports_activity_location",
         "point_of_interest",
         "establishment"
       ]
