@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-11T00:49:41.813Z",
+  "fetched_at": "2026-02-12T00:44:00.835Z",
   "location": {
     "latitude": -20.348404,
     "longitude": 57.552152
@@ -11,7 +11,7 @@
       "place_id": "ChIJcVwhUWZUfCERQ6oIFxW7cjY",
       "name": "L'Aventure du Sucre",
       "rating": 4.5,
-      "user_ratings_total": 4551,
+      "user_ratings_total": 4552,
       "vicinity": "B18, Pamplemousses 21001, Mauritius",
       "geometry": {
         "location": {
@@ -31,15 +31,15 @@
       "types": [
         "tourist_attraction",
         "gift_shop",
+        "dessert_restaurant",
         "coffee_shop",
         "cafe",
-        "dessert_restaurant",
         "museum",
         "food_store",
         "restaurant",
+        "food",
         "point_of_interest",
         "store",
-        "food",
         "establishment"
       ]
     },
@@ -66,8 +66,8 @@
       },
       "types": [
         "cafe",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -98,8 +98,8 @@
         "cafe",
         "food_store",
         "store",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -107,7 +107,7 @@
       "place_id": "ChIJZVO0wINtfCEReumvgM_PuSM",
       "name": "Kind Coffee",
       "rating": 4.9,
-      "user_ratings_total": 576,
+      "user_ratings_total": 577,
       "vicinity": "MU, La Gaulette 91101, Mauritius",
       "geometry": {
         "location": {
@@ -129,8 +129,8 @@
         "cafe",
         "food_store",
         "store",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -157,8 +157,8 @@
       },
       "types": [
         "cafe",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -185,8 +185,8 @@
       },
       "types": [
         "cafe",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -215,8 +215,8 @@
         "hotel",
         "cafe",
         "lodging",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -224,7 +224,7 @@
       "place_id": "ChIJO2N5dHmrfSER_xRqQ31INXI",
       "name": "Le Fournil",
       "rating": 4.4,
-      "user_ratings_total": 765,
+      "user_ratings_total": 764,
       "vicinity": "Route Royal, Pointe aux Cannoniers, Mauritius",
       "geometry": {
         "location": {
@@ -243,15 +243,15 @@
       },
       "types": [
         "bakery",
-        "sandwich_shop",
         "cafe",
+        "sandwich_shop",
         "dessert_shop",
         "confectionery",
         "food_store",
         "store",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -278,13 +278,13 @@
       },
       "types": [
         "cafe",
-        "breakfast_restaurant",
         "coffee_shop",
+        "breakfast_restaurant",
         "food_store",
         "store",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -317,8 +317,8 @@
         "confectionery",
         "food_store",
         "store",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -345,15 +345,15 @@
       },
       "types": [
         "restaurant",
-        "pizza_restaurant",
         "coffee_shop",
+        "pizza_restaurant",
         "cafe",
-        "meal_takeaway",
         "bar",
+        "meal_takeaway",
         "food_store",
         "store",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -381,13 +381,13 @@
       "types": [
         "coffee_shop",
         "cafe",
+        "bakery",
         "dessert_shop",
         "confectionery",
-        "bakery",
         "food_store",
         "store",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -415,12 +415,12 @@
       "types": [
         "restaurant",
         "bar_and_grill",
-        "cafe",
         "fine_dining_restaurant",
-        "bar",
+        "cafe",
         "seafood_restaurant",
-        "point_of_interest",
+        "bar",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -428,7 +428,7 @@
       "place_id": "ChIJPXHrHABrfCERfRtmQLEKw4o",
       "name": "Sketch",
       "rating": 4.6,
-      "user_ratings_total": 123,
+      "user_ratings_total": 124,
       "vicinity": "Rivière Noire District, Black River, Mauritius",
       "geometry": {
         "location": {
@@ -452,8 +452,8 @@
         "food_store",
         "store",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -483,8 +483,8 @@
         "cafe",
         "food_store",
         "store",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -514,11 +514,11 @@
         "supermarket",
         "cafe",
         "grocery_store",
-        "food_store",
         "lodging",
+        "food_store",
         "store",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -548,12 +548,12 @@
         "brunch_restaurant",
         "coffee_shop",
         "cafe",
-        "food_store",
         "lodging",
+        "food_store",
         "store",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -584,8 +584,8 @@
         "food_store",
         "store",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -612,8 +612,8 @@
       },
       "types": [
         "cafe",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -641,8 +641,8 @@
       "types": [
         "restaurant",
         "cafe",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -668,18 +668,18 @@
         "compound_code": "GFRP+X3 Chamouny, Mauritius"
       },
       "types": [
+        "tourist_attraction",
         "adventure_sports_center",
-        "amusement_center",
         "amusement_park",
         "wedding_venue",
-        "tourist_attraction",
+        "amusement_center",
         "park",
-        "event_venue",
-        "restaurant",
         "sports_complex",
+        "event_venue",
         "sports_activity_location",
-        "point_of_interest",
+        "restaurant",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -687,7 +687,7 @@
       "place_id": "ChIJwUmk66SrfSERR8Tx7epmlE0",
       "name": "LUX Grand Gaube",
       "rating": 4.6,
-      "user_ratings_total": 3214,
+      "user_ratings_total": 3215,
       "vicinity": "MU, Coastal Road, Grand Gaube 30617, Mauritius",
       "geometry": {
         "location": {
@@ -711,8 +711,8 @@
         "hotel",
         "lodging",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -739,18 +739,18 @@
       },
       "types": [
         "resort_hotel",
-        "bar_and_grill",
         "hotel",
+        "bar_and_grill",
+        "spa",
         "golf_course",
         "athletic_field",
-        "spa",
-        "lodging",
-        "bar",
         "event_venue",
-        "restaurant",
+        "lodging",
         "sports_activity_location",
-        "point_of_interest",
+        "bar",
+        "restaurant",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -780,8 +780,8 @@
         "spa",
         "lodging",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -813,8 +813,8 @@
         "hotel",
         "lodging",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -841,8 +841,8 @@
       },
       "types": [
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -850,7 +850,7 @@
       "place_id": "ChIJKyEo0vFsfCER83tiutwU45g",
       "name": "LUX Le Morne",
       "rating": 4.6,
-      "user_ratings_total": 2404,
+      "user_ratings_total": 2406,
       "vicinity": "Coastal Road, Le Morne, Mauritius",
       "geometry": {
         "location": {
@@ -874,8 +874,8 @@
         "hotel",
         "lodging",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -883,7 +883,7 @@
       "place_id": "ChIJ6SyZng6qfSERP7_lH0ExgJI",
       "name": "Lagoon Attitude Hotel",
       "rating": 4.6,
-      "user_ratings_total": 2097,
+      "user_ratings_total": 2098,
       "vicinity": "Royal Road Anse La Raie, Mauritius",
       "geometry": {
         "location": {
@@ -905,8 +905,8 @@
         "spa",
         "lodging",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -914,7 +914,7 @@
       "place_id": "ChIJmQGOpx2rfSERhGZeT-i_548",
       "name": "LUX* Grand Baie",
       "rating": 4.5,
-      "user_ratings_total": 1278,
+      "user_ratings_total": 1279,
       "vicinity": "MU, Coastal Road, Grand Baie 30510, Mauritius",
       "geometry": {
         "location": {
@@ -938,8 +938,8 @@
         "hotel",
         "lodging",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -966,8 +966,8 @@
       },
       "types": [
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -975,7 +975,7 @@
       "place_id": "ChIJ91KCoJv7fCERb9mgSgGF8RM",
       "name": "Sunrise Attitude Hotel",
       "rating": 4.6,
-      "user_ratings_total": 2176,
+      "user_ratings_total": 2184,
       "vicinity": "Belle Mare, Quatre Cocos, Mauritius",
       "geometry": {
         "location": {
@@ -998,8 +998,8 @@
         "spa",
         "lodging",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1007,7 +1007,7 @@
       "place_id": "ChIJRX4cqof7fCERe47zTXrhCvU",
       "name": "Solana Beach Mauritius",
       "rating": 4.3,
-      "user_ratings_total": 2593,
+      "user_ratings_total": 2595,
       "vicinity": "Coastal Road, Belle Mare, Poste de Flacq 41518, Mauritius",
       "geometry": {
         "location": {
@@ -1029,8 +1029,8 @@
         "resort_hotel",
         "lodging",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1057,8 +1057,8 @@
       },
       "types": [
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1088,8 +1088,8 @@
         "guest_house",
         "lodging",
         "bar",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1097,7 +1097,7 @@
       "place_id": "ChIJCXX1XWyrfSERlK-fgZPgMjA",
       "name": "Domaine de Grand Baie",
       "rating": 4.2,
-      "user_ratings_total": 398,
+      "user_ratings_total": 400,
       "vicinity": "MU, Grand Baie 30513, Mauritius",
       "geometry": {
         "location": {
@@ -1122,8 +1122,8 @@
         "lodging",
         "bar",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1131,7 +1131,7 @@
       "place_id": "ChIJjQLNqRqqfSERLW3SU4XcquY",
       "name": "Paradise Cove Boutique Hotel",
       "rating": 4.7,
-      "user_ratings_total": 897,
+      "user_ratings_total": 898,
       "vicinity": "Royal Road Anse La Raie, 2J7J+4X7, Rivière du Rempart, Mauritius",
       "geometry": {
         "location": {
@@ -1153,8 +1153,8 @@
         "spa",
         "lodging",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1181,8 +1181,8 @@
       },
       "types": [
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1209,8 +1209,8 @@
       },
       "types": [
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1238,14 +1238,14 @@
       "types": [
         "hotel",
         "resort_hotel",
+        "spa",
         "golf_course",
         "athletic_field",
-        "spa",
         "lodging",
-        "restaurant",
         "sports_activity_location",
-        "point_of_interest",
+        "restaurant",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     }
