@@ -3,7 +3,7 @@ import fs from "fs";
 import fetch from "node-fetch";
 
 const apiKey = process.env.GOOGLE_PLACES_API_KEY;
-const location = { latitude: -20.348404, longitude: 57.552152 };
+const location = { latitude: -20.1654, longitude: 57.4896 };
 const radius = 50000;
 const types = ["cafe", "restaurant"];
 
@@ -15,44 +15,51 @@ if (!apiKey) {
   process.exit(1);
 }
 
-
 async function fetchPlaces(type) {
   console.log(`Fetching ${type}s from Places API (New)...`);
 
   const url = "https://places.googleapis.com/v1/places:searchNearby";
 
-  const body = {
-    includedTypes: [type],
-    maxResultCount: limitPerType,
-    locationRestriction: {
-      circle: {
-        center: location,
-        radius: radius
+  let results = [];
+  let pageToken = null;
+
+  do {
+    const body = {
+      includedPrimaryTypes: [type],     // STEP 4: improved filtering
+      pageSize: 20,                     // always fetch max 20
+      pageToken,                        // pagination token
+      rankPreference: "POPULARITY",     // STEP 2: match NearbySearch behavior
+      locationRestriction: {
+        circle: {
+          center: location,             // STEP 1: matched location
+          radius: radius
+        }
       }
+    };
+
+    const response = await fetch(url, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "X-Goog-Api-Key": apiKey,
+        "X-Goog-FieldMask":
+          "places.id,places.displayName,places.rating,places.userRatingCount,places.formattedAddress,places.types,places.location,places.currentOpeningHours.openNow,places.plusCode"
+      },
+      body: JSON.stringify(body)
+    });
+
+    const data = await response.json();
+
+    if (data.places) {
+      results = results.concat(data.places);
     }
-  };
 
-  const response = await fetch(url, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "X-Goog-Api-Key": apiKey,
-      "X-Goog-FieldMask":
-        "places.id,places.displayName,places.rating,places.userRatingCount,places.formattedAddress,places.types,places.location,places.currentOpeningHours.openNow,places.plusCode"
-    },
-    body: JSON.stringify(body)
-  });
+    pageToken = data.nextPageToken;
 
-  const data = await response.json();
+  } while (pageToken && results.length < 60); // STEP 3 limit to 60 like old API
 
-  if (!data.places) {
-    console.error(`❌ No results for ${type}.`, data);
-    return [];
-  }
-  
-
-  // ✅ Map new API structure to your existing ApiTypePlace format
-  return data.places.map((p) => ({
+  // Convert format like you already did
+  return results.map((p) => ({
     place_id: p.id,
     name: p.displayName?.text || "",
     rating: p.rating || 0,
