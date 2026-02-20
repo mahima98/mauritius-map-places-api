@@ -26,7 +26,7 @@ async function fetchPlaces(type) {
   do {
     const body = {
       includedTypes: [type],     
-       maxResultCount: 20,             // always fetch max 20
+      maxResultCount: 20,             // always fetch max 20
       pageToken,                        // pagination token
       rankPreference: "POPULARITY",     // STEP 2: match NearbySearch behavior
       locationRestriction: {
@@ -50,6 +50,11 @@ async function fetchPlaces(type) {
 
     const data = await response.json();
 
+    if (data.error) {
+      console.error("❌ Google API Error:", data.error);
+      return [];
+    }
+
     if (data.places) {
       results = results.concat(data.places);
     }
@@ -59,10 +64,6 @@ async function fetchPlaces(type) {
   } while (pageToken && results.length < 60); // STEP 3 limit to 60 like old API
 
 
-  if (data.error) {
-  console.error("❌ Google API Error:", data.error);
-  return [];
-}
 
   // Convert format like you already did
   return results.map((p) => ({
