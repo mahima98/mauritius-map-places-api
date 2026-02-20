@@ -19,23 +19,29 @@ async function fetchPlaces(type) {
   console.log(`Fetching ${type}s from Places API (New)...`);
 
   const url = "https://places.googleapis.com/v1/places:searchNearby";
-
   let results = [];
   let pageToken = null;
+  let requestCount = 0;
+  const maxRequests = 2; // Limit to 2 requests per type to control costs
 
   do {
+    requestCount++;
     const body = {
       includedTypes: [type],     
-      maxResultCount: 20,             // always fetch max 20
-      pageToken,                        // pagination token
-      rankPreference: "POPULARITY",     // STEP 2: match NearbySearch behavior
+      maxResultCount: 20,
+      rankPreference: "POPULARITY",
       locationRestriction: {
         circle: {
-          center: location,             // STEP 1: matched location
+          center: location,
           radius: radius
         }
       }
     };
+
+    // Add pageToken to body only if we have one from previous request
+    if (pageToken) {
+      body.pageToken = pageToken;
+    }
 
     const response = await fetch(url, {
       method: "POST",
@@ -52,7 +58,9 @@ async function fetchPlaces(type) {
 
     if (data.error) {
       console.error("❌ Google API Error:", data.error);
-      return [];
+      // If first request fails, return empty; if subsequent request fails, keep what we have
+      if (requestCount === 1) return [];
+      break;
     }
 
     if (data.places) {
@@ -61,7 +69,7 @@ async function fetchPlaces(type) {
 
     pageToken = data.nextPageToken;
 
-  } while (pageToken && results.length < 60); // STEP 3 limit to 60 like old API
+  } while (pageToken && requestCount < maxRequests);
 
 
 
