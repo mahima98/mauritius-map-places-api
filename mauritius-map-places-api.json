@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-20T19:37:02.002Z",
+  "fetched_at": "2026-02-21T00:41:57.108Z",
   "location": {
     "latitude": -20.1654,
     "longitude": 57.4896
@@ -31,17 +31,17 @@
       "types": [
         "tourist_attraction",
         "history_museum",
-        "coffee_shop",
-        "cafe",
-        "gift_shop",
-        "museum",
         "dessert_restaurant",
-        "food_store",
-        "store",
+        "museum",
+        "coffee_shop",
+        "gift_shop",
+        "cafe",
         "manufacturer",
         "restaurant",
-        "point_of_interest",
+        "food_store",
+        "store",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -68,8 +68,8 @@
       },
       "types": [
         "cafe",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ]
     },
@@ -99,9 +99,9 @@
         "coffee_shop",
         "cafe",
         "food_store",
-        "store",
-        "food",
         "point_of_interest",
+        "food",
+        "store",
         "establishment"
       ]
     },
@@ -130,9 +130,9 @@
         "coffee_shop",
         "cafe",
         "food_store",
-        "store",
-        "food",
         "point_of_interest",
+        "food",
+        "store",
         "establishment"
       ]
     },
@@ -159,8 +159,8 @@
       },
       "types": [
         "cafe",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ]
     },
@@ -187,8 +187,8 @@
       },
       "types": [
         "cafe",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ]
     },
@@ -217,8 +217,8 @@
         "hotel",
         "cafe",
         "lodging",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ]
     },
@@ -246,15 +246,15 @@
       "types": [
         "bakery",
         "sandwich_shop",
-        "cafe",
         "pastry_shop",
+        "cafe",
         "dessert_shop",
         "confectionery",
         "food_store",
-        "store",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
+        "store",
         "establishment"
       ]
     },
@@ -281,13 +281,13 @@
       },
       "types": [
         "cafe",
-        "coffee_shop",
         "breakfast_restaurant",
+        "coffee_shop",
         "food_store",
-        "store",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
+        "store",
         "establishment"
       ]
     },
@@ -319,9 +319,9 @@
         "dessert_shop",
         "confectionery",
         "food_store",
-        "store",
-        "food",
         "point_of_interest",
+        "food",
+        "store",
         "establishment"
       ]
     },
@@ -352,13 +352,13 @@
         "coffee_shop",
         "cafe",
         "cocktail_bar",
-        "meal_takeaway",
-        "manufacturer",
-        "food_store",
-        "store",
-        "food",
         "bar",
+        "food_store",
+        "meal_takeaway",
         "point_of_interest",
+        "food",
+        "store",
+        "manufacturer",
         "establishment"
       ]
     },
@@ -384,16 +384,16 @@
         "compound_code": "XHPQ+H9 Grand Baie, Mauritius"
       },
       "types": [
+        "pastry_shop",
         "coffee_shop",
         "cafe",
-        "pastry_shop",
-        "dessert_shop",
         "bakery",
+        "dessert_shop",
         "confectionery",
         "food_store",
-        "store",
-        "food",
         "point_of_interest",
+        "food",
+        "store",
         "establishment"
       ]
     },
@@ -421,14 +421,14 @@
       "types": [
         "restaurant",
         "family_restaurant",
-        "fine_dining_restaurant",
-        "cafe",
-        "cocktail_bar",
         "bar_and_grill",
         "seafood_restaurant",
-        "food",
+        "cafe",
+        "fine_dining_restaurant",
+        "cocktail_bar",
         "bar",
         "point_of_interest",
+        "food",
         "establishment"
       ]
     },
@@ -458,10 +458,10 @@
         "coffee_shop",
         "cafe",
         "food_store",
-        "store",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
+        "store",
         "establishment"
       ]
     },
@@ -490,9 +490,9 @@
         "coffee_shop",
         "cafe",
         "food_store",
-        "store",
-        "food",
         "point_of_interest",
+        "food",
+        "store",
         "establishment"
       ]
     },
@@ -524,10 +524,10 @@
         "cafe",
         "lodging",
         "food_store",
-        "store",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
+        "store",
         "establishment"
       ]
     },
@@ -554,14 +554,14 @@
       },
       "types": [
         "guest_house",
-        "cafe",
         "supermarket",
-        "lodging",
+        "cafe",
         "grocery_store",
+        "lodging",
         "food_store",
-        "store",
-        "food",
         "point_of_interest",
+        "food",
+        "store",
         "establishment"
       ]
     },
@@ -590,10 +590,10 @@
         "coffee_shop",
         "cafe",
         "food_store",
-        "store",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
+        "store",
         "establishment"
       ]
     },
@@ -620,8 +620,8 @@
       },
       "types": [
         "cafe",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ]
     },
@@ -650,8 +650,8 @@
         "restaurant",
         "family_restaurant",
         "cafe",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ]
     },
@@ -677,20 +677,20 @@
         "compound_code": "GFRP+X3 Chamouny, Mauritius"
       },
       "types": [
-        "nature_preserve",
         "adventure_sports_center",
-        "park",
-        "tourist_attraction",
+        "amusement_park",
         "amusement_center",
+        "tourist_attraction",
+        "nature_preserve",
+        "park",
         "wedding_venue",
         "event_venue",
-        "amusement_park",
-        "service",
         "sports_complex",
-        "sports_activity_location",
         "restaurant",
-        "point_of_interest",
         "food",
+        "sports_activity_location",
+        "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -717,13 +717,13 @@
       },
       "types": [
         "resort_hotel",
-        "hotel",
         "vegan_restaurant",
         "vegetarian_restaurant",
+        "hotel",
         "lodging",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -750,19 +750,19 @@
       },
       "types": [
         "resort_hotel",
+        "golf_course",
         "bar_and_grill",
         "hotel",
-        "bar",
-        "golf_course",
+        "athletic_field",
         "lodging",
         "spa",
-        "event_venue",
-        "athletic_field",
+        "bar",
         "association_or_organization",
-        "sports_activity_location",
+        "event_venue",
         "restaurant",
-        "point_of_interest",
         "food",
+        "sports_activity_location",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -792,8 +792,8 @@
         "lodging",
         "spa",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -820,13 +820,13 @@
       },
       "types": [
         "resort_hotel",
-        "hotel",
         "vegan_restaurant",
         "vegetarian_restaurant",
+        "hotel",
         "lodging",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -853,8 +853,8 @@
       },
       "types": [
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -881,13 +881,13 @@
       },
       "types": [
         "resort_hotel",
-        "hotel",
         "vegan_restaurant",
         "vegetarian_restaurant",
+        "hotel",
         "lodging",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -917,8 +917,8 @@
         "lodging",
         "spa",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -945,13 +945,13 @@
       },
       "types": [
         "resort_hotel",
-        "hotel",
         "vegan_restaurant",
         "vegetarian_restaurant",
+        "hotel",
         "lodging",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -978,8 +978,8 @@
       },
       "types": [
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1010,8 +1010,8 @@
         "lodging",
         "spa",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1041,8 +1041,8 @@
         "resort_hotel",
         "lodging",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1069,8 +1069,8 @@
       },
       "types": [
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1098,10 +1098,10 @@
       "types": [
         "restaurant",
         "guest_house",
-        "bar",
         "lodging",
-        "point_of_interest",
+        "bar",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1128,15 +1128,15 @@
       },
       "types": [
         "condominium_complex",
-        "apartment_building",
         "hotel",
-        "bar",
+        "apartment_building",
         "lodging",
         "spa",
-        "service",
+        "bar",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
+        "service",
         "establishment"
       ]
     },
@@ -1166,8 +1166,8 @@
         "lodging",
         "spa",
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1194,8 +1194,8 @@
       },
       "types": [
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1215,15 +1215,15 @@
         "restaurant"
       ],
       "opening_hours": {
-        "open_now": true
+        "open_now": false
       },
       "plus_code": {
         "compound_code": "XHRH+VF Grand Baie, Mauritius"
       },
       "types": [
         "restaurant",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1250,17 +1250,17 @@
       },
       "types": [
         "hotel",
-        "resort_hotel",
         "golf_course",
+        "resort_hotel",
+        "athletic_field",
         "lodging",
         "spa",
-        "athletic_field",
         "association_or_organization",
-        "service",
-        "sports_activity_location",
         "restaurant",
-        "point_of_interest",
         "food",
+        "sports_activity_location",
+        "point_of_interest",
+        "service",
         "establishment"
       ]
     }
