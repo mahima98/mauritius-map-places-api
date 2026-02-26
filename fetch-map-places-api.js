@@ -49,7 +49,7 @@ async function fetchPlaces(type) {
         "Content-Type": "application/json",
         "X-Goog-Api-Key": apiKey,
         "X-Goog-FieldMask":
-          "places.id,places.displayName,places.rating,places.userRatingCount,places.formattedAddress,places.types,places.location,places.currentOpeningHours.openNow,places.plusCode"
+          "places.id,places.displayName,places.rating,places.userRatingCount,places.formattedAddress,places.types,places.location,places.currentOpeningHours,places.plusCode"
       },
       body: JSON.stringify(body)
     });
@@ -87,9 +87,7 @@ async function fetchPlaces(type) {
       }
     },
     data: [type],
-    opening_hours: {
-      open_now: p.currentOpeningHours?.openNow || false
-    },
+    opening_hours: p.currentOpeningHours || [],
     plus_code: {
       compound_code: p.plusCode?.compoundCode || ""
     },
