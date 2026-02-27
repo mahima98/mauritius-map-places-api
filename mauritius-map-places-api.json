@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-26T00:41:31.223Z",
+  "fetched_at": "2026-02-27T00:44:00.629Z",
   "location": {
     "latitude": -20.1654,
     "longitude": 57.4896
@@ -23,24 +23,168 @@
         "restaurant"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 4:00 PM",
+          "Tuesday: 10:00 AM – 4:00 PM",
+          "Wednesday: 10:00 AM – 4:00 PM",
+          "Thursday: 10:00 AM – 4:00 PM",
+          "Friday: 10:00 AM – 4:00 PM",
+          "Saturday: 10:00 AM – 4:00 PM",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-02-27T06:00:00Z"
       },
       "plus_code": {
         "compound_code": "WH2F+RQ Pamplemousses, Mauritius"
       },
       "types": [
         "tourist_attraction",
-        "history_museum",
-        "gift_shop",
         "coffee_shop",
-        "cafe",
-        "dessert_restaurant",
+        "history_museum",
         "museum",
-        "manufacturer",
+        "cafe",
+        "gift_shop",
+        "dessert_restaurant",
         "food_store",
-        "store",
         "restaurant",
         "food",
+        "manufacturer",
+        "store",
         "point_of_interest",
         "establishment"
       ]
@@ -49,7 +193,7 @@
       "place_id": "ChIJV_NsvqqsfSER1fT2pGkkZ7Y",
       "name": "Florensuc Patisserie",
       "rating": 4.3,
-      "user_ratings_total": 1018,
+      "user_ratings_total": 1019,
       "vicinity": "XG5X+QR5, Trou Aux Biches Rd, Triolet, Mauritius",
       "geometry": {
         "location": {
@@ -61,15 +205,181 @@
         "cafe"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:00 AM – 10:00 PM",
+          "Tuesday: 7:00 AM – 10:00 PM",
+          "Wednesday: 7:00 AM – 10:00 PM",
+          "Thursday: 7:00 AM – 10:00 PM",
+          "Friday: 7:00 AM – 10:00 PM",
+          "Saturday: 7:00 AM – 10:00 PM",
+          "Sunday: 7:00 AM – 10:00 PM"
+        ],
+        "nextOpenTime": "2026-02-27T03:00:00Z"
       },
       "plus_code": {
         "compound_code": ""
       },
       "types": [
         "cafe",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -89,7 +399,327 @@
         "cafe"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 0,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+          "Tuesday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+          "Wednesday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+          "Thursday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+          "Friday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+          "Saturday: 11:00 AM – 3:00 PM, 6:00 – 10:00 PM",
+          "Sunday: 12:00 – 3:00 PM, 6:00 – 10:00 PM"
+        ],
+        "nextOpenTime": "2026-02-27T08:00:00Z"
       },
       "plus_code": {
         "compound_code": "J9JM+JG Grande Riviere Noire, Mauritius"
@@ -99,9 +729,9 @@
         "coffee_shop",
         "cafe",
         "food_store",
-        "point_of_interest",
-        "food",
         "store",
+        "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -121,7 +751,173 @@
         "cafe"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 4:00 PM",
+          "Tuesday: 8:00 AM – 4:00 PM",
+          "Wednesday: 8:00 AM – 4:00 PM",
+          "Thursday: 8:00 AM – 4:00 PM",
+          "Friday: 8:00 AM – 4:00 PM",
+          "Saturday: 8:00 AM – 4:00 PM",
+          "Sunday: 8:00 AM – 4:00 PM"
+        ],
+        "nextOpenTime": "2026-02-27T04:00:00Z"
       },
       "plus_code": {
         "compound_code": "H9C5+6C La Gaulette, Mauritius"
@@ -130,9 +926,9 @@
         "coffee_shop",
         "cafe",
         "food_store",
-        "point_of_interest",
-        "food",
         "store",
+        "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -152,15 +948,137 @@
         "cafe"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 3:30 PM",
+          "Tuesday: 9:00 AM – 3:30 PM",
+          "Wednesday: 9:00 AM – 3:30 PM",
+          "Thursday: 9:00 AM – 3:30 PM",
+          "Friday: 9:00 AM – 3:30 PM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-02-27T05:00:00Z"
       },
       "plus_code": {
         "compound_code": "HMWX+95 Mahebourg, Mauritius"
       },
       "types": [
         "cafe",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -180,15 +1098,181 @@
         "cafe"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 14,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 12,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 14,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Closed",
+          "Tuesday: 10:30 AM – 10:30 PM",
+          "Wednesday: 10:30 AM – 10:30 PM",
+          "Thursday: 10:30 AM – 10:30 PM",
+          "Friday: 10:30 AM – 12:30 PM, 2:00 – 10:30 PM",
+          "Saturday: 10:30 AM – 12:00 AM",
+          "Sunday: 2:30 – 11:00 PM"
+        ],
+        "nextOpenTime": "2026-02-27T06:30:00Z"
       },
       "plus_code": {
         "compound_code": "MGPF+7P Curepipe, Mauritius"
       },
       "types": [
         "cafe",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -208,7 +1292,151 @@
         "cafe"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:30 AM – 6:00 PM",
+          "Tuesday: 8:30 AM – 6:00 PM",
+          "Wednesday: 8:30 AM – 6:00 PM",
+          "Thursday: 8:30 AM – 6:00 PM",
+          "Friday: 8:30 AM – 6:00 PM",
+          "Saturday: 8:30 AM – 4:00 PM",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-02-27T04:30:00Z"
       },
       "plus_code": {
         "compound_code": "2H2Q+JJ Grand Baie, Mauritius"
@@ -216,9 +1444,9 @@
       "types": [
         "hotel",
         "cafe",
+        "food",
         "lodging",
         "point_of_interest",
-        "food",
         "establishment"
       ]
     },
@@ -238,23 +1466,189 @@
         "cafe"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:30 AM – 6:30 PM",
+          "Tuesday: 6:30 AM – 6:30 PM",
+          "Wednesday: 6:30 AM – 6:30 PM",
+          "Thursday: 6:30 AM – 6:30 PM",
+          "Friday: 6:30 AM – 6:30 PM",
+          "Saturday: 6:30 AM – 6:30 PM",
+          "Sunday: 6:30 AM – 1:00 PM"
+        ],
+        "nextOpenTime": "2026-02-27T02:30:00Z"
       },
       "plus_code": {
         "compound_code": "XHR6+6H Grand Baie, Mauritius"
       },
       "types": [
         "bakery",
-        "pastry_shop",
         "sandwich_shop",
-        "cafe",
+        "pastry_shop",
         "dessert_shop",
+        "cafe",
         "confectionery",
         "food_store",
-        "restaurant",
-        "point_of_interest",
-        "food",
         "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -274,7 +1668,151 @@
         "cafe"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 14,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 4:00 PM",
+          "Tuesday: 8:00 AM – 4:00 PM",
+          "Wednesday: 8:00 AM – 4:00 PM",
+          "Thursday: 8:00 AM – 4:00 PM",
+          "Friday: 8:00 AM – 4:00 PM",
+          "Saturday: 9:00 AM – 2:00 PM",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-02-27T04:00:00Z"
       },
       "plus_code": {
         "compound_code": "XHJP+J4 Grand Baie, Mauritius"
@@ -284,10 +1822,10 @@
         "coffee_shop",
         "breakfast_restaurant",
         "food_store",
-        "restaurant",
-        "point_of_interest",
-        "food",
         "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -307,7 +1845,173 @@
         "cafe"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 12:00 – 11:00 PM",
+          "Tuesday: 12:00 – 11:00 PM",
+          "Wednesday: 12:00 – 11:00 PM",
+          "Thursday: 12:00 – 11:00 PM",
+          "Friday: 12:00 – 11:00 PM",
+          "Saturday: 12:00 – 11:00 PM",
+          "Sunday: 12:00 – 11:00 PM"
+        ],
+        "nextOpenTime": "2026-02-27T08:00:00Z"
       },
       "plus_code": {
         "compound_code": "P999+JC Flic en Flac, Mauritius"
@@ -315,13 +2019,13 @@
       "types": [
         "ice_cream_shop",
         "coffee_shop",
-        "cafe",
         "dessert_shop",
+        "cafe",
         "confectionery",
         "food_store",
-        "point_of_interest",
-        "food",
         "store",
+        "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -341,7 +2045,305 @@
         "cafe"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 11,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 11:00 AM – 3:00 PM, 6:00 – 11:00 PM",
+          "Tuesday: 11:00 AM – 3:00 PM, 6:00 – 11:00 PM",
+          "Wednesday: 11:00 AM – 3:00 PM, 6:00 – 11:00 PM",
+          "Thursday: 11:00 AM – 3:00 PM, 6:00 – 11:00 PM",
+          "Friday: 11:00 AM – 3:00 PM, 6:00 – 11:00 PM",
+          "Saturday: 11:00 AM – 3:00 PM, 6:00 – 11:00 PM",
+          "Sunday: 6:00 – 11:00 PM"
+        ],
+        "nextOpenTime": "2026-02-27T07:00:00Z"
       },
       "plus_code": {
         "compound_code": "XHF2+QG Trou-aux-Biches, Mauritius"
@@ -352,13 +2354,13 @@
         "cocktail_bar",
         "coffee_shop",
         "cafe",
-        "bar",
-        "manufacturer",
         "meal_takeaway",
         "food_store",
-        "point_of_interest",
-        "food",
+        "bar",
         "store",
+        "manufacturer",
+        "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -378,22 +2380,188 @@
         "cafe"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 13,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 6,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 18,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:30 AM – 6:30 PM",
+          "Tuesday: 6:30 AM – 6:30 PM",
+          "Wednesday: 6:30 AM – 6:30 PM",
+          "Thursday: 6:30 AM – 6:30 PM",
+          "Friday: 6:30 AM – 6:30 PM",
+          "Saturday: 6:30 AM – 6:30 PM",
+          "Sunday: 6:30 AM – 1:00 PM"
+        ],
+        "nextOpenTime": "2026-02-27T02:30:00Z"
       },
       "plus_code": {
         "compound_code": "XHPQ+H9 Grand Baie, Mauritius"
       },
       "types": [
-        "pastry_shop",
         "coffee_shop",
-        "bakery",
-        "cafe",
+        "pastry_shop",
         "dessert_shop",
+        "cafe",
         "confectionery",
+        "bakery",
         "food_store",
-        "point_of_interest",
-        "food",
         "store",
+        "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -413,22 +2581,166 @@
         "cafe"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Closed",
+          "Tuesday: 9:00 AM – 10:30 PM",
+          "Wednesday: 12:00 – 10:30 PM",
+          "Thursday: 12:00 – 10:30 PM",
+          "Friday: 12:00 – 10:30 PM",
+          "Saturday: 12:00 – 10:30 PM",
+          "Sunday: 12:00 – 10:30 PM"
+        ],
+        "nextOpenTime": "2026-02-27T08:00:00Z"
       },
       "plus_code": {
         "compound_code": "XHMJ+XF Grand Baie, Mauritius"
       },
       "types": [
         "restaurant",
-        "cocktail_bar",
-        "fine_dining_restaurant",
-        "cafe",
-        "seafood_restaurant",
         "family_restaurant",
+        "fine_dining_restaurant",
         "bar_and_grill",
+        "cocktail_bar",
+        "seafood_restaurant",
+        "cafe",
         "bar",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -436,7 +2748,7 @@
       "place_id": "ChIJPXHrHABrfCERfRtmQLEKw4o",
       "name": "Sketch",
       "rating": 4.6,
-      "user_ratings_total": 129,
+      "user_ratings_total": 130,
       "vicinity": "Rivière Noire District, Black River, Mauritius",
       "geometry": {
         "location": {
@@ -448,7 +2760,173 @@
         "cafe"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 4:00 PM",
+          "Tuesday: 8:00 AM – 4:00 PM",
+          "Wednesday: 8:00 AM – 4:00 PM",
+          "Thursday: 8:00 AM – 4:00 PM",
+          "Friday: 8:00 AM – 4:00 PM",
+          "Saturday: 8:00 AM – 4:00 PM",
+          "Sunday: 8:00 AM – 4:00 PM"
+        ],
+        "nextOpenTime": "2026-02-27T04:00:00Z"
       },
       "plus_code": {
         "compound_code": "M937+WP Black River, Mauritius"
@@ -458,10 +2936,10 @@
         "coffee_shop",
         "cafe",
         "food_store",
-        "restaurant",
-        "point_of_interest",
-        "food",
         "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -481,7 +2959,151 @@
         "cafe"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 16,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:30 AM – 5:00 PM",
+          "Tuesday: 7:30 AM – 5:00 PM",
+          "Wednesday: 7:30 AM – 5:00 PM",
+          "Thursday: 7:30 AM – 5:00 PM",
+          "Friday: 7:30 AM – 5:00 PM",
+          "Saturday: 8:30 AM – 4:00 PM",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-02-27T03:30:00Z"
       },
       "plus_code": {
         "compound_code": ""
@@ -490,9 +3112,9 @@
         "coffee_shop",
         "cafe",
         "food_store",
-        "point_of_interest",
-        "food",
         "store",
+        "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -511,9 +3133,7 @@
       "data": [
         "cafe"
       ],
-      "opening_hours": {
-        "open_now": false
-      },
+      "opening_hours": [],
       "plus_code": {
         "compound_code": "2J7G+6G Cap Malheureux, Mauritius"
       },
@@ -522,12 +3142,12 @@
         "coffee_shop",
         "brunch_restaurant",
         "cafe",
-        "lodging",
         "food_store",
-        "restaurant",
-        "point_of_interest",
-        "food",
         "store",
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -547,7 +3167,173 @@
         "cafe"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 15,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 3:30 PM",
+          "Tuesday: 8:00 AM – 3:30 PM",
+          "Wednesday: 8:00 AM – 3:30 PM",
+          "Thursday: 8:00 AM – 3:30 PM",
+          "Friday: 8:00 AM – 3:30 PM",
+          "Saturday: 8:00 AM – 3:30 PM",
+          "Sunday: 8:00 AM – 3:30 PM"
+        ],
+        "nextOpenTime": "2026-02-27T04:00:00Z"
       },
       "plus_code": {
         "compound_code": "J9JJ+P3 Black River, Mauritius"
@@ -556,12 +3342,12 @@
         "guest_house",
         "cafe",
         "supermarket",
-        "lodging",
         "grocery_store",
         "food_store",
-        "point_of_interest",
-        "food",
         "store",
+        "food",
+        "lodging",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -569,7 +3355,7 @@
       "place_id": "ChIJqTJtWnlrfCERNFdcpJM6Gbo",
       "name": "JIVA Coffee and Roastery",
       "rating": 4.8,
-      "user_ratings_total": 112,
+      "user_ratings_total": 113,
       "vicinity": "Black River Road, La Preneuse, Black River, Mauritius",
       "geometry": {
         "location": {
@@ -581,7 +3367,151 @@
         "cafe"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 16,
+              "minute": 15,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 16,
+              "minute": 15,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 16,
+              "minute": 15,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 16,
+              "minute": 15,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 16,
+              "minute": 15,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 15,
+              "minute": 45,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00 AM – 4:15 PM",
+          "Tuesday: 8:00 AM – 4:15 PM",
+          "Wednesday: 8:00 AM – 4:15 PM",
+          "Thursday: 8:00 AM – 4:15 PM",
+          "Friday: 8:00 AM – 4:15 PM",
+          "Saturday: 8:00 AM – 3:45 PM",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-02-27T04:00:00Z"
       },
       "plus_code": {
         "compound_code": "J9V8+WF Black River, Mauritius"
@@ -590,10 +3520,10 @@
         "coffee_shop",
         "cafe",
         "food_store",
-        "restaurant",
-        "point_of_interest",
-        "food",
         "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -613,15 +3543,159 @@
         "cafe"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:00 AM – 6:00 PM",
+          "Tuesday: 7:00 AM – 6:00 PM",
+          "Wednesday: 7:00 AM – 6:00 PM",
+          "Thursday: 7:00 AM – 6:00 PM",
+          "Friday: 7:00 AM – 8:30 PM",
+          "Saturday: 7:00 AM – 6:00 PM",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-02-27T03:00:00Z"
       },
       "plus_code": {
         "compound_code": ""
       },
       "types": [
         "cafe",
-        "point_of_interest",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -641,17 +3715,249 @@
         "cafe"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 15,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 18,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+          "Tuesday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+          "Wednesday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+          "Thursday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+          "Friday: 12:00 – 3:00 PM, 6:00 – 10:00 PM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-02-27T08:00:00Z"
       },
       "plus_code": {
         "compound_code": ""
       },
       "types": [
         "restaurant",
-        "cafe",
         "family_restaurant",
-        "point_of_interest",
+        "cafe",
         "food",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -659,7 +3965,7 @@
       "place_id": "ChIJB2bQNAxmfCERG7NSOEK29PI",
       "name": "Vallé Advenature Park (formerly La Vallée des Couleurs)",
       "rating": 4.7,
-      "user_ratings_total": 14085,
+      "user_ratings_total": 14087,
       "vicinity": "B102, Chamouny, Mauritius",
       "geometry": {
         "location": {
@@ -671,26 +3977,192 @@
         "restaurant"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 17,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 17,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 17,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 17,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 17,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 5:30 PM",
+          "Tuesday: 9:00 AM – 5:30 PM",
+          "Wednesday: 9:00 AM – 5:30 PM",
+          "Thursday: 9:00 AM – 5:30 PM",
+          "Friday: 9:00 AM – 5:30 PM",
+          "Saturday: 9:00 AM – 5:30 PM",
+          "Sunday: 9:00 AM – 5:30 PM"
+        ],
+        "nextOpenTime": "2026-02-27T05:00:00Z"
       },
       "plus_code": {
         "compound_code": "GFRP+X3 Chamouny, Mauritius"
       },
       "types": [
-        "adventure_sports_center",
-        "amusement_park",
-        "nature_preserve",
-        "wedding_venue",
-        "amusement_center",
         "tourist_attraction",
-        "sports_complex",
+        "wedding_venue",
+        "nature_preserve",
         "park",
-        "event_venue",
-        "sports_activity_location",
+        "adventure_sports_center",
+        "sports_complex",
+        "amusement_center",
+        "amusement_park",
         "restaurant",
         "food",
-        "point_of_interest",
+        "sports_activity_location",
         "service",
+        "event_venue",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -698,7 +4170,7 @@
       "place_id": "ChIJwUmk66SrfSERR8Tx7epmlE0",
       "name": "LUX Grand Gaube",
       "rating": 4.6,
-      "user_ratings_total": 3227,
+      "user_ratings_total": 3228,
       "vicinity": "MU, Coastal Road, Grand Gaube 30617, Mauritius",
       "geometry": {
         "location": {
@@ -710,7 +4182,42 @@
         "restaurant"
       ],
       "opening_hours": {
-        "open_now": true
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
       },
       "plus_code": {
         "compound_code": "XMX5+3W Grand Gaube, Mauritius"
@@ -718,8 +4225,8 @@
       "types": [
         "resort_hotel",
         "vegan_restaurant",
-        "hotel",
         "vegetarian_restaurant",
+        "hotel",
         "lodging",
         "restaurant",
         "food",
@@ -743,7 +4250,42 @@
         "restaurant"
       ],
       "opening_hours": {
-        "open_now": true
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
       },
       "plus_code": {
         "compound_code": "RQM8+3F Poste de Flacq, Mauritius"
@@ -751,18 +4293,18 @@
       "types": [
         "resort_hotel",
         "bar_and_grill",
-        "hotel",
         "golf_course",
-        "athletic_field",
-        "bar",
         "spa",
+        "hotel",
         "lodging",
-        "event_venue",
-        "sports_activity_location",
         "restaurant",
         "food",
-        "point_of_interest",
+        "bar",
+        "athletic_field",
+        "sports_activity_location",
+        "event_venue",
         "association_or_organization",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -770,7 +4312,7 @@
       "place_id": "ChIJxzqO66hTfCERyRxznQW1nVQ",
       "name": "The Ravenala Attitude Hotel",
       "rating": 4.6,
-      "user_ratings_total": 7093,
+      "user_ratings_total": 7096,
       "vicinity": "Turtle Bay, Balaclava, Mauritius",
       "geometry": {
         "location": {
@@ -782,7 +4324,42 @@
         "restaurant"
       ],
       "opening_hours": {
-        "open_now": true
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
       },
       "plus_code": {
         "compound_code": "WG88+HR Balaclava, Mauritius"
@@ -801,7 +4378,7 @@
       "place_id": "ChIJifca5Ar7fCERtSZUVmwWgN4",
       "name": "LUX Belle Mare",
       "rating": 4.7,
-      "user_ratings_total": 2166,
+      "user_ratings_total": 2168,
       "vicinity": "Coastal Road, Quatre Cocos, Mauritius",
       "geometry": {
         "location": {
@@ -813,7 +4390,42 @@
         "restaurant"
       ],
       "opening_hours": {
-        "open_now": true
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
       },
       "plus_code": {
         "compound_code": "RQ2J+9W Quatre Cocos, Mauritius"
@@ -821,8 +4433,8 @@
       "types": [
         "resort_hotel",
         "vegan_restaurant",
-        "hotel",
         "vegetarian_restaurant",
+        "hotel",
         "lodging",
         "restaurant",
         "food",
@@ -846,7 +4458,151 @@
         "restaurant"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 16,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:30 AM – 4:30 PM",
+          "Tuesday: 9:30 AM – 4:30 PM",
+          "Wednesday: 9:30 AM – 4:30 PM",
+          "Thursday: 9:30 AM – 4:30 PM",
+          "Friday: 9:30 AM – 4:30 PM",
+          "Saturday: 9:30 AM – 4:30 PM",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-02-27T05:30:00Z"
       },
       "plus_code": {
         "compound_code": "H9CW+RG Chamarel, Mauritius"
@@ -874,7 +4630,42 @@
         "restaurant"
       ],
       "opening_hours": {
-        "open_now": true
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
       },
       "plus_code": {
         "compound_code": "G8V6+5J Le Morne, Mauritius"
@@ -882,8 +4673,8 @@
       "types": [
         "resort_hotel",
         "vegan_restaurant",
-        "hotel",
         "vegetarian_restaurant",
+        "hotel",
         "lodging",
         "restaurant",
         "food",
@@ -895,7 +4686,7 @@
       "place_id": "ChIJ6SyZng6qfSERP7_lH0ExgJI",
       "name": "Lagoon Attitude Hotel",
       "rating": 4.6,
-      "user_ratings_total": 2123,
+      "user_ratings_total": 2124,
       "vicinity": "Royal Road Anse La Raie, Mauritius",
       "geometry": {
         "location": {
@@ -906,9 +4697,7 @@
       "data": [
         "restaurant"
       ],
-      "opening_hours": {
-        "open_now": false
-      },
+      "opening_hours": [],
       "plus_code": {
         "compound_code": "2J4P+6H Calodyne, Mauritius"
       },
@@ -937,17 +4726,15 @@
       "data": [
         "restaurant"
       ],
-      "opening_hours": {
-        "open_now": false
-      },
+      "opening_hours": [],
       "plus_code": {
         "compound_code": "XHXM+M6 Grand Baie, Mauritius"
       },
       "types": [
         "resort_hotel",
         "vegan_restaurant",
-        "hotel",
         "vegetarian_restaurant",
+        "hotel",
         "lodging",
         "restaurant",
         "food",
@@ -970,9 +4757,7 @@
       "data": [
         "restaurant"
       ],
-      "opening_hours": {
-        "open_now": false
-      },
+      "opening_hours": [],
       "plus_code": {
         "compound_code": "H9HP+59 Chamarel, Mauritius"
       },
@@ -999,15 +4784,50 @@
         "restaurant"
       ],
       "opening_hours": {
-        "open_now": true
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
       },
       "plus_code": {
         "compound_code": "RQ5F+X9 Quatre Cocos, Mauritius"
       },
       "types": [
         "resort_hotel",
-        "hotel",
         "spa",
+        "hotel",
         "lodging",
         "restaurant",
         "food",
@@ -1030,9 +4850,7 @@
       "data": [
         "restaurant"
       ],
-      "opening_hours": {
-        "open_now": false
-      },
+      "opening_hours": [],
       "plus_code": {
         "compound_code": "RQFC+85 Poste de Flacq, Mauritius"
       },
@@ -1062,7 +4880,173 @@
         "restaurant"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 12:00 – 10:00 PM",
+          "Tuesday: 12:00 – 10:00 PM",
+          "Wednesday: 12:00 – 10:00 PM",
+          "Thursday: 12:00 – 10:00 PM",
+          "Friday: 12:00 – 10:00 PM",
+          "Saturday: 12:00 – 10:00 PM",
+          "Sunday: 12:00 – 10:00 PM"
+        ],
+        "nextOpenTime": "2026-02-27T08:00:00Z"
       },
       "plus_code": {
         "compound_code": "XHMJ+Q6 Grand Baie, Mauritius"
@@ -1078,7 +5062,7 @@
       "place_id": "ChIJuwNMdAVqfCERJjA6TdILaKs",
       "name": "The Bay Guest House & Restaurant",
       "rating": 4.3,
-      "user_ratings_total": 1542,
+      "user_ratings_total": 1540,
       "vicinity": "Avenue Les Cocotiers, Black River, Mauritius",
       "geometry": {
         "location": {
@@ -1090,7 +5074,173 @@
         "restaurant"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 23,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 23,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:30 AM – 11:30 PM",
+          "Tuesday: 7:30 AM – 11:30 PM",
+          "Wednesday: 7:30 AM – 11:30 PM",
+          "Thursday: 7:30 AM – 11:30 PM",
+          "Friday: 7:30 AM – 11:30 PM",
+          "Saturday: 7:30 AM – 11:30 PM",
+          "Sunday: 7:30 AM – 11:30 PM"
+        ],
+        "nextOpenTime": "2026-02-27T03:30:00Z"
       },
       "plus_code": {
         "compound_code": "J9X6+CQ Black River, Mauritius"
@@ -1098,9 +5248,9 @@
       "types": [
         "restaurant",
         "guest_house",
-        "bar",
         "lodging",
         "food",
+        "bar",
         "point_of_interest",
         "establishment"
       ]
@@ -1121,22 +5271,57 @@
         "restaurant"
       ],
       "opening_hours": {
-        "open_now": true
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
       },
       "plus_code": {
         "compound_code": "XHGG+F2 Grand Baie, Mauritius"
       },
       "types": [
         "condominium_complex",
-        "hotel",
         "apartment_building",
-        "bar",
         "spa",
+        "hotel",
         "lodging",
         "restaurant",
         "food",
-        "point_of_interest",
+        "bar",
         "service",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1156,7 +5341,42 @@
         "restaurant"
       ],
       "opening_hours": {
-        "open_now": true
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
       },
       "plus_code": {
         "compound_code": ""
@@ -1175,7 +5395,7 @@
       "place_id": "ChIJB8tLoYKqfSER9zIv9eco7_U",
       "name": "Eden Beach Restaurant Lounge-Bar",
       "rating": 4.4,
-      "user_ratings_total": 1303,
+      "user_ratings_total": 1305,
       "vicinity": "Costal Rd, Grand Baie, Mauritius",
       "geometry": {
         "location": {
@@ -1187,7 +5407,173 @@
         "restaurant"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 19,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 22,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00 AM – 10:00 PM",
+          "Tuesday: 10:00 AM – 10:00 PM",
+          "Wednesday: 10:00 AM – 10:00 PM",
+          "Thursday: 10:00 AM – 10:00 PM",
+          "Friday: 10:00 AM – 10:00 PM",
+          "Saturday: 10:00 AM – 10:00 PM",
+          "Sunday: 10:00 AM – 7:00 PM"
+        ],
+        "nextOpenTime": "2026-02-27T06:00:00Z"
       },
       "plus_code": {
         "compound_code": "XHP9+57 Grand Baie, Mauritius"
@@ -1203,7 +5589,7 @@
       "place_id": "ChIJZ8hTKPerfSERjZy6Re3a84I",
       "name": "N 'JOY",
       "rating": 4.2,
-      "user_ratings_total": 1025,
+      "user_ratings_total": 1026,
       "vicinity": "la cuvette beach, Grand Baie, Mauritius",
       "geometry": {
         "location": {
@@ -1215,7 +5601,130 @@
         "restaurant"
       ],
       "opening_hours": {
-        "open_now": false
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 10,
+              "minute": 30,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 1,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 0,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 1,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 12,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 1,
+              "minute": 0,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 1
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Closed",
+          "Tuesday: Closed",
+          "Wednesday: 12:00 PM – 12:00 AM",
+          "Thursday: 12:00 PM – 12:00 AM",
+          "Friday: 12:00 PM – 1:00 AM",
+          "Saturday: 12:00 PM – 1:00 AM",
+          "Sunday: 10:30 AM – 1:00 AM"
+        ],
+        "nextOpenTime": "2026-02-27T08:00:00Z"
       },
       "plus_code": {
         "compound_code": "XHRH+VF Grand Baie, Mauritius"
@@ -1243,7 +5752,42 @@
         "restaurant"
       ],
       "opening_hours": {
-        "open_now": true
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 5,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 2,
+                "day": 27
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 5
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
       },
       "plus_code": {
         "compound_code": "VP2W+4F Poste de Flacq, Mauritius"
@@ -1252,15 +5796,15 @@
         "hotel",
         "resort_hotel",
         "golf_course",
-        "athletic_field",
         "spa",
         "lodging",
-        "sports_activity_location",
         "restaurant",
         "food",
-        "point_of_interest",
+        "athletic_field",
+        "sports_activity_location",
         "service",
         "association_or_organization",
+        "point_of_interest",
         "establishment"
       ]
     }
