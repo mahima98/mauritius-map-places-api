@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-13T00:43:13.062Z",
+  "fetched_at": "2026-03-14T00:41:22.732Z",
   "location": {
     "latitude": -20.1654,
     "longitude": 57.4896
@@ -121,7 +121,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -131,7 +131,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -167,23 +167,23 @@
           "Saturday: 10:00 AM – 4:00 PM",
           "Sunday: Closed"
         ],
-        "nextOpenTime": "2026-03-13T06:00:00Z"
+        "nextOpenTime": "2026-03-14T06:00:00Z"
       },
       "plus_code": {
         "compound_code": "WH2F+RQ Pamplemousses, Mauritius"
       },
       "types": [
         "tourist_attraction",
-        "coffee_shop",
-        "history_museum",
-        "museum",
-        "cafe",
-        "gift_shop",
         "dessert_restaurant",
+        "history_museum",
+        "gift_shop",
+        "coffee_shop",
+        "cafe",
         "food_store",
+        "museum",
+        "manufacturer",
         "restaurant",
         "food",
-        "manufacturer",
         "store",
         "point_of_interest",
         "establishment"
@@ -325,7 +325,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -335,7 +335,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -371,7 +371,7 @@
           "Saturday: 7:00 AM – 10:00 PM",
           "Sunday: 7:00 AM – 10:00 PM"
         ],
-        "nextOpenTime": "2026-03-13T03:00:00Z"
+        "nextOpenTime": "2026-03-14T03:00:00Z"
       },
       "plus_code": {
         "compound_code": ""
@@ -629,7 +629,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -639,7 +639,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -651,7 +651,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -661,7 +661,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -719,7 +719,7 @@
           "Saturday: 11:00 AM – 3:00 PM, 6:00 – 10:00 PM",
           "Sunday: 12:00 – 3:00 PM, 6:00 – 10:00 PM"
         ],
-        "nextOpenTime": "2026-03-13T08:00:00Z"
+        "nextOpenTime": "2026-03-14T07:00:00Z"
       },
       "plus_code": {
         "compound_code": "J9JM+JG Grande Riviere Noire, Mauritius"
@@ -730,8 +730,8 @@
         "cafe",
         "food_store",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -739,7 +739,7 @@
       "place_id": "ChIJZVO0wINtfCEReumvgM_PuSM",
       "name": "Kind Coffee",
       "rating": 4.9,
-      "user_ratings_total": 591,
+      "user_ratings_total": 592,
       "vicinity": "MU, La Gaulette 91101, Mauritius",
       "geometry": {
         "location": {
@@ -871,7 +871,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -881,7 +881,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -917,7 +917,7 @@
           "Saturday: 8:00 AM – 4:00 PM",
           "Sunday: 8:00 AM – 4:00 PM"
         ],
-        "nextOpenTime": "2026-03-13T04:00:00Z"
+        "nextOpenTime": "2026-03-14T04:00:00Z"
       },
       "plus_code": {
         "compound_code": "H9C5+6C La Gaulette, Mauritius"
@@ -927,8 +927,8 @@
         "cafe",
         "food_store",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1046,7 +1046,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -1056,7 +1056,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           }
@@ -1070,7 +1070,7 @@
           "Saturday: Closed",
           "Sunday: Closed"
         ],
-        "nextOpenTime": "2026-03-13T05:00:00Z"
+        "nextOpenTime": "2026-03-16T05:00:00Z"
       },
       "plus_code": {
         "compound_code": "HMWX+95 Mahebourg, Mauritius"
@@ -1196,7 +1196,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -1206,7 +1206,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -1218,7 +1218,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -1228,7 +1228,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -1264,7 +1264,7 @@
           "Saturday: 10:30 AM – 12:00 AM",
           "Sunday: 2:30 – 11:00 PM"
         ],
-        "nextOpenTime": "2026-03-13T06:30:00Z"
+        "nextOpenTime": "2026-03-14T06:30:00Z"
       },
       "plus_code": {
         "compound_code": "MGPF+7P Curepipe, Mauritius"
@@ -1390,7 +1390,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -1400,7 +1400,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -1436,7 +1436,7 @@
           "Saturday: 8:30 AM – 4:00 PM",
           "Sunday: Closed"
         ],
-        "nextOpenTime": "2026-03-13T04:30:00Z"
+        "nextOpenTime": "2026-03-14T04:30:00Z"
       },
       "plus_code": {
         "compound_code": "2H2Q+JJ Grand Baie, Mauritius"
@@ -1586,7 +1586,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -1596,7 +1596,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -1632,23 +1632,23 @@
           "Saturday: 6:30 AM – 6:30 PM",
           "Sunday: 6:30 AM – 1:00 PM"
         ],
-        "nextOpenTime": "2026-03-13T02:30:00Z"
+        "nextOpenTime": "2026-03-14T02:30:00Z"
       },
       "plus_code": {
         "compound_code": "XHR6+6H Grand Baie, Mauritius"
       },
       "types": [
         "bakery",
-        "cafe",
         "sandwich_shop",
         "pastry_shop",
+        "cafe",
         "dessert_shop",
         "confectionery",
         "food_store",
         "restaurant",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1738,28 +1738,6 @@
           },
           {
             "open": {
-              "day": 5,
-              "hour": 8,
-              "minute": 0,
-              "date": {
-                "year": 2026,
-                "month": 3,
-                "day": 13
-              }
-            },
-            "close": {
-              "day": 5,
-              "hour": 16,
-              "minute": 0,
-              "date": {
-                "year": 2026,
-                "month": 3,
-                "day": 13
-              }
-            }
-          },
-          {
-            "open": {
               "day": 6,
               "hour": 9,
               "minute": 0,
@@ -1786,7 +1764,7 @@
           "Tuesday: 8:00 AM – 4:00 PM",
           "Wednesday: 8:00 AM – 4:00 PM",
           "Thursday: Closed",
-          "Friday: 8:00 AM – 4:00 PM",
+          "Friday: Closed",
           "Saturday: 9:00 AM – 2:00 PM",
           "Sunday: Closed"
         ],
@@ -1797,22 +1775,29 @@
               "month": 3,
               "day": 19
             }
+          },
+          {
+            "date": {
+              "year": 2026,
+              "month": 3,
+              "day": 20
+            }
           }
         ],
-        "nextOpenTime": "2026-03-13T04:00:00Z"
+        "nextOpenTime": "2026-03-14T05:00:00Z"
       },
       "plus_code": {
         "compound_code": "XHJP+J4 Grand Baie, Mauritius"
       },
       "types": [
         "cafe",
-        "coffee_shop",
         "breakfast_restaurant",
+        "coffee_shop",
         "food_store",
         "restaurant",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -1952,7 +1937,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -1962,7 +1947,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -1998,7 +1983,7 @@
           "Saturday: 12:00 – 11:00 PM",
           "Sunday: 12:00 – 11:00 PM"
         ],
-        "nextOpenTime": "2026-03-13T08:00:00Z"
+        "nextOpenTime": "2026-03-14T08:00:00Z"
       },
       "plus_code": {
         "compound_code": "P999+JC Flic en Flac, Mauritius"
@@ -2011,8 +1996,8 @@
         "confectionery",
         "food_store",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -2240,7 +2225,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -2250,7 +2235,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -2262,7 +2247,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -2272,7 +2257,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -2330,24 +2315,24 @@
           "Saturday: 11:00 AM – 3:00 PM, 6:00 – 11:00 PM",
           "Sunday: 6:00 – 11:00 PM"
         ],
-        "nextOpenTime": "2026-03-13T07:00:00Z"
+        "nextOpenTime": "2026-03-14T07:00:00Z"
       },
       "plus_code": {
         "compound_code": "XHF2+QG Trou-aux-Biches, Mauritius"
       },
       "types": [
         "restaurant",
+        "pizza_restaurant",
         "cocktail_bar",
         "coffee_shop",
         "cafe",
-        "bar",
         "meal_takeaway",
-        "pizza_restaurant",
+        "bar",
         "food_store",
-        "manufacturer",
         "food",
-        "point_of_interest",
+        "manufacturer",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -2355,7 +2340,7 @@
       "place_id": "ChIJnRWDZA-rfSER2xN0IBfV2A8",
       "name": "Pains et Moulins",
       "rating": 4.3,
-      "user_ratings_total": 841,
+      "user_ratings_total": 842,
       "vicinity": "Grand Baie, Richmond Hill Complex, Centre Commercial, Grand Baie, Mauritius",
       "geometry": {
         "location": {
@@ -2487,7 +2472,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -2497,7 +2482,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -2533,22 +2518,22 @@
           "Saturday: 6:30 AM – 6:30 PM",
           "Sunday: 6:30 AM – 1:00 PM"
         ],
-        "nextOpenTime": "2026-03-13T02:30:00Z"
+        "nextOpenTime": "2026-03-14T02:30:00Z"
       },
       "plus_code": {
         "compound_code": "XHPQ+H9 Grand Baie, Mauritius"
       },
       "types": [
+        "pastry_shop",
         "coffee_shop",
         "cafe",
-        "pastry_shop",
         "dessert_shop",
         "confectionery",
         "bakery",
         "food_store",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -2666,7 +2651,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -2676,7 +2661,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -2712,7 +2697,7 @@
           "Saturday: 12:00 – 10:30 PM",
           "Sunday: 12:00 – 10:30 PM"
         ],
-        "nextOpenTime": "2026-03-13T08:00:00Z"
+        "nextOpenTime": "2026-03-14T08:00:00Z"
       },
       "plus_code": {
         "compound_code": "XHMJ+XF Grand Baie, Mauritius"
@@ -2722,10 +2707,10 @@
         "family_restaurant",
         "fine_dining_restaurant",
         "cocktail_bar",
-        "bar_and_grill",
-        "cafe",
-        "bar",
         "seafood_restaurant",
+        "cafe",
+        "bar_and_grill",
+        "bar",
         "food",
         "point_of_interest",
         "establishment"
@@ -2867,7 +2852,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -2877,7 +2862,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -2913,7 +2898,7 @@
           "Saturday: 8:00 AM – 4:00 PM",
           "Sunday: 8:00 AM – 4:00 PM"
         ],
-        "nextOpenTime": "2026-03-13T04:00:00Z"
+        "nextOpenTime": "2026-03-14T04:00:00Z"
       },
       "plus_code": {
         "compound_code": "M937+WP Black River, Mauritius"
@@ -2925,8 +2910,8 @@
         "food_store",
         "restaurant",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -2934,7 +2919,7 @@
       "place_id": "ChIJf-mcXZlrfCERMGyZ3SsEj6g",
       "name": "Kuumba Coffee Black River",
       "rating": 4.5,
-      "user_ratings_total": 295,
+      "user_ratings_total": 296,
       "vicinity": "m937+9M, Black River, Mauritius",
       "geometry": {
         "location": {
@@ -3044,7 +3029,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -3054,7 +3039,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -3090,7 +3075,7 @@
           "Saturday: 8:30 AM – 4:00 PM",
           "Sunday: Closed"
         ],
-        "nextOpenTime": "2026-03-13T03:30:00Z"
+        "nextOpenTime": "2026-03-14T04:30:00Z"
       },
       "plus_code": {
         "compound_code": ""
@@ -3100,8 +3085,8 @@
         "cafe",
         "food_store",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -3133,8 +3118,8 @@
         "food_store",
         "restaurant",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -3274,7 +3259,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -3284,7 +3269,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -3320,21 +3305,21 @@
           "Saturday: 8:00 AM – 3:30 PM",
           "Sunday: 8:00 AM – 3:30 PM"
         ],
-        "nextOpenTime": "2026-03-13T04:00:00Z"
+        "nextOpenTime": "2026-03-14T04:00:00Z"
       },
       "plus_code": {
         "compound_code": "J9JJ+P3 Black River, Mauritius"
       },
       "types": [
         "guest_house",
-        "cafe",
         "supermarket",
+        "cafe",
         "grocery_store",
         "lodging",
         "food_store",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -3424,28 +3409,6 @@
           },
           {
             "open": {
-              "day": 5,
-              "hour": 8,
-              "minute": 0,
-              "date": {
-                "year": 2026,
-                "month": 3,
-                "day": 13
-              }
-            },
-            "close": {
-              "day": 5,
-              "hour": 16,
-              "minute": 15,
-              "date": {
-                "year": 2026,
-                "month": 3,
-                "day": 13
-              }
-            }
-          },
-          {
-            "open": {
               "day": 6,
               "hour": 8,
               "minute": 0,
@@ -3472,7 +3435,7 @@
           "Tuesday: 8:00 AM – 4:15 PM",
           "Wednesday: 8:00 AM – 4:15 PM",
           "Thursday: Closed",
-          "Friday: 8:00 AM – 4:15 PM",
+          "Friday: Closed",
           "Saturday: 8:00 AM – 3:45 PM",
           "Sunday: Closed"
         ],
@@ -3483,9 +3446,16 @@
               "month": 3,
               "day": 19
             }
+          },
+          {
+            "date": {
+              "year": 2026,
+              "month": 3,
+              "day": 20
+            }
           }
         ],
-        "nextOpenTime": "2026-03-13T04:00:00Z"
+        "nextOpenTime": "2026-03-14T04:00:00Z"
       },
       "plus_code": {
         "compound_code": "J9V8+WF Black River, Mauritius"
@@ -3496,8 +3466,8 @@
         "food_store",
         "restaurant",
         "food",
-        "point_of_interest",
         "store",
+        "point_of_interest",
         "establishment"
       ]
     },
@@ -3615,7 +3585,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -3625,7 +3595,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -3661,7 +3631,7 @@
           "Saturday: 7:00 AM – 6:00 PM",
           "Sunday: Closed"
         ],
-        "nextOpenTime": "2026-03-13T03:00:00Z"
+        "nextOpenTime": "2026-03-14T03:00:00Z"
       },
       "plus_code": {
         "compound_code": ""
@@ -3677,7 +3647,7 @@
       "place_id": "ChIJC50EfzZtfCERzkOfxp18NsU",
       "name": "Heritage Sunset Café",
       "rating": 4.7,
-      "user_ratings_total": 269,
+      "user_ratings_total": 271,
       "vicinity": "H9C6+VVM, La Gaulette, Mauritius",
       "geometry": {
         "location": {
@@ -3875,7 +3845,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -3885,7 +3855,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -3897,7 +3867,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -3907,7 +3877,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           }
@@ -3921,7 +3891,7 @@
           "Saturday: Closed",
           "Sunday: Closed"
         ],
-        "nextOpenTime": "2026-03-13T08:00:00Z"
+        "nextOpenTime": "2026-03-16T08:00:00Z"
       },
       "plus_code": {
         "compound_code": ""
@@ -3939,7 +3909,7 @@
       "place_id": "ChIJB2bQNAxmfCERG7NSOEK29PI",
       "name": "Vallé Advenature Park (formerly La Vallée des Couleurs)",
       "rating": 4.7,
-      "user_ratings_total": 14102,
+      "user_ratings_total": 14104,
       "vicinity": "B102, Chamouny, Mauritius",
       "geometry": {
         "location": {
@@ -4071,7 +4041,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -4081,7 +4051,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -4117,25 +4087,25 @@
           "Saturday: 9:00 AM – 5:30 PM",
           "Sunday: 9:00 AM – 5:30 PM"
         ],
-        "nextOpenTime": "2026-03-13T05:00:00Z"
+        "nextOpenTime": "2026-03-14T05:00:00Z"
       },
       "plus_code": {
         "compound_code": "GFRP+X3 Chamouny, Mauritius"
       },
       "types": [
         "tourist_attraction",
-        "wedding_venue",
-        "nature_preserve",
-        "park",
         "adventure_sports_center",
-        "sports_complex",
+        "nature_preserve",
         "amusement_center",
+        "wedding_venue",
         "amusement_park",
+        "sports_complex",
+        "sports_activity_location",
+        "event_venue",
+        "park",
         "restaurant",
         "food",
-        "sports_activity_location",
         "service",
-        "event_venue",
         "point_of_interest",
         "establishment"
       ]
@@ -4144,7 +4114,7 @@
       "place_id": "ChIJwUmk66SrfSERR8Tx7epmlE0",
       "name": "LUX Grand Gaube",
       "rating": 4.6,
-      "user_ratings_total": 3240,
+      "user_ratings_total": 3241,
       "vicinity": "MU, Coastal Road, Grand Gaube 30617, Mauritius",
       "geometry": {
         "location": {
@@ -4160,25 +4130,25 @@
         "periods": [
           {
             "open": {
-              "day": 5,
+              "day": 6,
               "hour": 0,
               "minute": 0,
               "truncated": true,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 14
               }
             },
             "close": {
-              "day": 4,
+              "day": 5,
               "hour": 23,
               "minute": 59,
               "truncated": true,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 19
+                "day": 20
               }
             }
           }
@@ -4199,8 +4169,8 @@
       "types": [
         "resort_hotel",
         "vegan_restaurant",
-        "vegetarian_restaurant",
         "hotel",
+        "vegetarian_restaurant",
         "lodging",
         "restaurant",
         "food",
@@ -4212,7 +4182,7 @@
       "place_id": "ChIJT3zlxHX8fCERkaRhKG_Wvy0",
       "name": "Constance Belle Mare Plage Mauritius",
       "rating": 4.6,
-      "user_ratings_total": 2639,
+      "user_ratings_total": 2641,
       "vicinity": "MU, B59 Belle Mare, Poste de Flacq 41602, Mauritius",
       "geometry": {
         "location": {
@@ -4228,25 +4198,25 @@
         "periods": [
           {
             "open": {
-              "day": 5,
+              "day": 6,
               "hour": 0,
               "minute": 0,
               "truncated": true,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 14
               }
             },
             "close": {
-              "day": 4,
+              "day": 5,
               "hour": 23,
               "minute": 59,
               "truncated": true,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 19
+                "day": 20
               }
             }
           }
@@ -4266,18 +4236,18 @@
       },
       "types": [
         "resort_hotel",
-        "bar_and_grill",
-        "golf_course",
-        "spa",
         "hotel",
+        "golf_course",
+        "bar_and_grill",
+        "athletic_field",
+        "bar",
+        "spa",
+        "association_or_organization",
+        "sports_activity_location",
+        "event_venue",
         "lodging",
         "restaurant",
         "food",
-        "bar",
-        "athletic_field",
-        "sports_activity_location",
-        "event_venue",
-        "association_or_organization",
         "point_of_interest",
         "establishment"
       ]
@@ -4286,7 +4256,7 @@
       "place_id": "ChIJxzqO66hTfCERyRxznQW1nVQ",
       "name": "The Ravenala Attitude Hotel",
       "rating": 4.6,
-      "user_ratings_total": 7132,
+      "user_ratings_total": 7135,
       "vicinity": "Turtle Bay, Balaclava, Mauritius",
       "geometry": {
         "location": {
@@ -4302,25 +4272,25 @@
         "periods": [
           {
             "open": {
-              "day": 5,
+              "day": 6,
               "hour": 0,
               "minute": 0,
               "truncated": true,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 14
               }
             },
             "close": {
-              "day": 4,
+              "day": 5,
               "hour": 23,
               "minute": 59,
               "truncated": true,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 19
+                "day": 20
               }
             }
           }
@@ -4368,25 +4338,25 @@
         "periods": [
           {
             "open": {
-              "day": 5,
+              "day": 6,
               "hour": 0,
               "minute": 0,
               "truncated": true,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 14
               }
             },
             "close": {
-              "day": 4,
+              "day": 5,
               "hour": 23,
               "minute": 59,
               "truncated": true,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 19
+                "day": 20
               }
             }
           }
@@ -4407,8 +4377,8 @@
       "types": [
         "resort_hotel",
         "vegan_restaurant",
-        "vegetarian_restaurant",
         "hotel",
+        "vegetarian_restaurant",
         "lodging",
         "restaurant",
         "food",
@@ -4420,7 +4390,7 @@
       "place_id": "ChIJ_zudTjZpfCERrM6aNE6Tb54",
       "name": "Rhumerie de Chamarel Restaurant & Rum Distillery",
       "rating": 4.5,
-      "user_ratings_total": 4319,
+      "user_ratings_total": 4321,
       "vicinity": "Chamarel, Mauritius",
       "geometry": {
         "location": {
@@ -4530,7 +4500,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -4540,7 +4510,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -4576,7 +4546,7 @@
           "Saturday: 9:30 AM – 4:30 PM",
           "Sunday: Closed"
         ],
-        "nextOpenTime": "2026-03-13T05:30:00Z"
+        "nextOpenTime": "2026-03-14T05:30:00Z"
       },
       "plus_code": {
         "compound_code": "H9CW+RG Chamarel, Mauritius"
@@ -4592,7 +4562,7 @@
       "place_id": "ChIJKyEo0vFsfCER83tiutwU45g",
       "name": "LUX Le Morne",
       "rating": 4.6,
-      "user_ratings_total": 2413,
+      "user_ratings_total": 2414,
       "vicinity": "Coastal Road, Le Morne, Mauritius",
       "geometry": {
         "location": {
@@ -4608,25 +4578,25 @@
         "periods": [
           {
             "open": {
-              "day": 5,
+              "day": 6,
               "hour": 0,
               "minute": 0,
               "truncated": true,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 14
               }
             },
             "close": {
-              "day": 4,
+              "day": 5,
               "hour": 23,
               "minute": 59,
               "truncated": true,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 19
+                "day": 20
               }
             }
           }
@@ -4647,8 +4617,8 @@
       "types": [
         "resort_hotel",
         "vegan_restaurant",
-        "vegetarian_restaurant",
         "hotel",
+        "vegetarian_restaurant",
         "lodging",
         "restaurant",
         "food",
@@ -4660,7 +4630,7 @@
       "place_id": "ChIJ6SyZng6qfSERP7_lH0ExgJI",
       "name": "Lagoon Attitude Hotel",
       "rating": 4.6,
-      "user_ratings_total": 2136,
+      "user_ratings_total": 2137,
       "vicinity": "Royal Road Anse La Raie, Mauritius",
       "geometry": {
         "location": {
@@ -4707,8 +4677,8 @@
       "types": [
         "resort_hotel",
         "vegan_restaurant",
-        "vegetarian_restaurant",
         "hotel",
+        "vegetarian_restaurant",
         "lodging",
         "restaurant",
         "food",
@@ -4746,7 +4716,7 @@
       "place_id": "ChIJ91KCoJv7fCERb9mgSgGF8RM",
       "name": "Sunrise Attitude Hotel",
       "rating": 4.6,
-      "user_ratings_total": 2245,
+      "user_ratings_total": 2247,
       "vicinity": "Belle Mare, Quatre Cocos, Mauritius",
       "geometry": {
         "location": {
@@ -4762,25 +4732,25 @@
         "periods": [
           {
             "open": {
-              "day": 5,
+              "day": 6,
               "hour": 0,
               "minute": 0,
               "truncated": true,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 14
               }
             },
             "close": {
-              "day": 4,
+              "day": 5,
               "hour": 23,
               "minute": 59,
               "truncated": true,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 19
+                "day": 20
               }
             }
           }
@@ -4800,8 +4770,8 @@
       },
       "types": [
         "resort_hotel",
-        "spa",
         "hotel",
+        "spa",
         "lodging",
         "restaurant",
         "food",
@@ -4813,7 +4783,7 @@
       "place_id": "ChIJRX4cqof7fCERe47zTXrhCvU",
       "name": "Solana Beach Mauritius",
       "rating": 4.3,
-      "user_ratings_total": 2614,
+      "user_ratings_total": 2615,
       "vicinity": "Coastal Road, Belle Mare, Poste de Flacq 41518, Mauritius",
       "geometry": {
         "location": {
@@ -4974,7 +4944,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -4984,7 +4954,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -5020,7 +4990,7 @@
           "Saturday: 12:00 – 10:00 PM",
           "Sunday: 12:00 – 10:00 PM"
         ],
-        "nextOpenTime": "2026-03-13T08:00:00Z"
+        "nextOpenTime": "2026-03-14T08:00:00Z"
       },
       "plus_code": {
         "compound_code": "XHMJ+Q6 Grand Baie, Mauritius"
@@ -5036,7 +5006,7 @@
       "place_id": "ChIJuwNMdAVqfCERJjA6TdILaKs",
       "name": "The Bay Guest House & Restaurant",
       "rating": 4.3,
-      "user_ratings_total": 1551,
+      "user_ratings_total": 1553,
       "vicinity": "Avenue Les Cocotiers, Black River, Mauritius",
       "geometry": {
         "location": {
@@ -5168,7 +5138,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -5178,7 +5148,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -5214,7 +5184,7 @@
           "Saturday: 7:30 AM – 11:30 PM",
           "Sunday: 7:30 AM – 11:30 PM"
         ],
-        "nextOpenTime": "2026-03-13T03:30:00Z"
+        "nextOpenTime": "2026-03-14T03:30:00Z"
       },
       "plus_code": {
         "compound_code": "J9X6+CQ Black River, Mauritius"
@@ -5222,9 +5192,9 @@
       "types": [
         "restaurant",
         "guest_house",
+        "bar",
         "lodging",
         "food",
-        "bar",
         "point_of_interest",
         "establishment"
       ]
@@ -5249,25 +5219,25 @@
         "periods": [
           {
             "open": {
-              "day": 5,
+              "day": 6,
               "hour": 0,
               "minute": 0,
               "truncated": true,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 14
               }
             },
             "close": {
-              "day": 4,
+              "day": 5,
               "hour": 23,
               "minute": 59,
               "truncated": true,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 19
+                "day": 20
               }
             }
           }
@@ -5287,13 +5257,13 @@
       },
       "types": [
         "condominium_complex",
-        "apartment_building",
-        "spa",
         "hotel",
+        "apartment_building",
+        "bar",
+        "spa",
         "lodging",
         "restaurant",
         "food",
-        "bar",
         "service",
         "point_of_interest",
         "establishment"
@@ -5304,11 +5274,11 @@
       "name": "Paradise Cove Boutique Hotel",
       "rating": 4.7,
       "user_ratings_total": 907,
-      "vicinity": "Royal Road Anse La Raie, 2J7J+4X7, Rivière du Rempart, Mauritius",
+      "vicinity": "Anse La Raie Ile Maurice, Royal Road, Grand Baie, Mauritius",
       "geometry": {
         "location": {
-          "lat": -19.9878899,
-          "lng": 57.63265249999999
+          "lat": -19.9991113,
+          "lng": 57.60710520000001
         }
       },
       "data": [
@@ -5319,25 +5289,25 @@
         "periods": [
           {
             "open": {
-              "day": 5,
+              "day": 6,
               "hour": 0,
               "minute": 0,
               "truncated": true,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 14
               }
             },
             "close": {
-              "day": 4,
+              "day": 5,
               "hour": 23,
               "minute": 59,
               "truncated": true,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 19
+                "day": 20
               }
             }
           }
@@ -5353,7 +5323,7 @@
         ]
       },
       "plus_code": {
-        "compound_code": ""
+        "compound_code": "2J24+9R Grand Baie, Mauritius"
       },
       "types": [
         "hotel",
@@ -5501,7 +5471,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             },
             "close": {
@@ -5511,7 +5481,7 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
               }
             }
           },
@@ -5547,7 +5517,7 @@
           "Saturday: 10:00 AM – 10:30 PM",
           "Sunday: 10:00 AM – 7:00 PM"
         ],
-        "nextOpenTime": "2026-03-13T06:00:00Z"
+        "nextOpenTime": "2026-03-14T06:00:00Z"
       },
       "plus_code": {
         "compound_code": "XHP9+57 Grand Baie, Mauritius"
@@ -5563,7 +5533,7 @@
       "place_id": "ChIJZ8hTKPerfSERjZy6Re3a84I",
       "name": "N 'JOY",
       "rating": 4.2,
-      "user_ratings_total": 1031,
+      "user_ratings_total": 1034,
       "vicinity": "la cuvette beach, Grand Baie, Mauritius",
       "geometry": {
         "location": {
@@ -5633,14 +5603,13 @@
               }
             },
             "close": {
-              "day": 4,
-              "hour": 23,
-              "minute": 59,
-              "truncated": true,
+              "day": 5,
+              "hour": 0,
+              "minute": 0,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 19
+                "day": 20
               }
             }
           },
@@ -5652,7 +5621,31 @@
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 20
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 59,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 20
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 0,
+              "minute": 0,
+              "truncated": true,
+              "date": {
+                "year": 2026,
+                "month": 3,
+                "day": 14
               }
             },
             "close": {
@@ -5698,7 +5691,7 @@
           "Saturday: 12:00 PM – 1:00 AM",
           "Sunday: 10:30 AM – 1:00 AM"
         ],
-        "nextOpenTime": "2026-03-13T08:00:00Z"
+        "nextOpenTime": "2026-03-14T08:00:00Z"
       },
       "plus_code": {
         "compound_code": "XHRH+VF Grand Baie, Mauritius"
@@ -5730,25 +5723,25 @@
         "periods": [
           {
             "open": {
-              "day": 5,
+              "day": 6,
               "hour": 0,
               "minute": 0,
               "truncated": true,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 13
+                "day": 14
               }
             },
             "close": {
-              "day": 4,
+              "day": 5,
               "hour": 23,
               "minute": 59,
               "truncated": true,
               "date": {
                 "year": 2026,
                 "month": 3,
-                "day": 19
+                "day": 20
               }
             }
           }
@@ -5770,14 +5763,14 @@
         "hotel",
         "resort_hotel",
         "golf_course",
+        "athletic_field",
         "spa",
+        "association_or_organization",
+        "sports_activity_location",
         "lodging",
         "restaurant",
         "food",
-        "athletic_field",
-        "sports_activity_location",
         "service",
-        "association_or_organization",
         "point_of_interest",
         "establishment"
       ]
